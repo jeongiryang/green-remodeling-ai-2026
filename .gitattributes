@@ -1,2 +1,9 @@
+# Consistent hashes for authored text on Windows and Linux.
+*.md text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+
 # Preserve downloaded originals and extracted source text byte-for-byte.
 contest/originals/** -text -whitespace

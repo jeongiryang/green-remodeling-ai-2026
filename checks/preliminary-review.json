@@ -1,0 +1,15 @@
+{
+  "reviewer": "",
+  "reviewed_digest": "",
+  "checks": {
+    "latest_rules": {"passed": false, "evidence": ""},
+    "problem_and_originality": {"passed": false, "evidence": ""},
+    "data_and_ai_feasibility": {"passed": false, "evidence": ""},
+    "claims_and_sources": {"passed": false, "evidence": ""},
+    "visual_and_page_layout": {"passed": false, "evidence": ""},
+    "blind_review": {"passed": false, "evidence": ""},
+    "ai_and_external_credits": {"passed": false, "evidence": ""},
+    "team_signatures_and_eligibility": {"passed": false, "evidence": ""},
+    "files_and_delivery_access": {"passed": false, "evidence": ""}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reviewer": "",
+  "reviewed_digest": "",
+  "checks": {
+    "official_final_rules": {"passed": false, "evidence": ""},
+    "core_flow_and_failure_cases": {"passed": false, "evidence": ""},
+    "ai_baseline_and_limitations": {"passed": false, "evidence": ""},
+    "user_accessibility": {"passed": false, "evidence": ""},
+    "demo_and_questions": {"passed": false, "evidence": ""},
+    "final_files_and_credits": {"passed": false, "evidence": ""}
+  }
+}
