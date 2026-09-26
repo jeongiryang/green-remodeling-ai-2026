@@ -1,0 +1,65 @@
+[
+  {
+    "relative_path": "01_대학생해커톤_모집공고.pdf",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\01_대학생해커톤_모집공고.pdf",
+    "sha256": "1F04623B869A667992CD16729B1E1B6F4AFF6C4A8DA944E019D9462C1BFB618B",
+    "bytes": 418711,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "01_대학생해커톤_모집공고.txt",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\01_대학생해커톤_모집공고.txt",
+    "sha256": "E8083C8277A7D29FF4D3CC0548A375143046E3430569526DC2752E083108EF28",
+    "bytes": 21986,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "02_참가신청서류.hwp",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\02_참가신청서류.hwp",
+    "sha256": "DDDCA987FE821703AE57D58115B8696FC2C62638C43E54E01C521CCFFFFE3FAA",
+    "bytes": 146432,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "02_참가신청서류.txt",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\02_참가신청서류.txt",
+    "sha256": "4167E8EDCD95783BC302AAAE3DFB377B13C44FB41D8CDAADB23984BFFA7DD661",
+    "bytes": 6928,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "03_제안요약서.hwp",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\03_제안요약서.hwp",
+    "sha256": "BE390E3F8E4A93BF3D9708BC798E9B7D973CE8CEF572581B3A7A8F37C22663FF",
+    "bytes": 144384,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "03_제안요약서.txt",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\03_제안요약서.txt",
+    "sha256": "787C78ABF94DDB1A5B865825170B1CC8CF8C2D648E6DD70970F2B8D2ABA1967B",
+    "bytes": 1791,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "04_AI플랫폼_참가서식_공식.zip",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\04_AI플랫폼_참가서식_공식.zip",
+    "sha256": "D07A0DBFB34FC32C16D5349B33AD603D73C04ADF36CED946430C1BFA0449E3A8",
+    "bytes": 250627,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "공식서식\\[별첨3] 참가신청서류_AI 플랫폼 아이디어.hwp",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\공식서식\\[별첨3] 참가신청서류_AI 플랫폼 아이디어.hwp",
+    "sha256": "DDDCA987FE821703AE57D58115B8696FC2C62638C43E54E01C521CCFFFFE3FAA",
+    "bytes": 146432,
+    "verified_equal": true
+  },
+  {
+    "relative_path": "공식서식\\[별첨4] 제안요약서_AI 플랫폼 아이디어.hwp",
+    "source_path": "C:\\Users\\user\\Documents\\ChatGPT\\공모전 계획\\공모전 자료\\그린AI\\공식서식\\[별첨4] 제안요약서_AI 플랫폼 아이디어.hwp",
+    "sha256": "BE390E3F8E4A93BF3D9708BC798E9B7D973CE8CEF572581B3A7A8F37C22663FF",
+    "bytes": 144384,
+    "verified_equal": true
+  }
+]

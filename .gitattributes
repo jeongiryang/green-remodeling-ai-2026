@@ -1,0 +1,2 @@
+# Preserve downloaded originals and extracted source text byte-for-byte.
+contest/originals/** -text -whitespace

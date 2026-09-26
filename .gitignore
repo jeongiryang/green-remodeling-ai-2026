@@ -1,0 +1,14 @@
+# Local credentials and private submission documents
+.env
+.env.*
+!.env.example
+private/
+
+# Local caches and temporary files
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+~$*
