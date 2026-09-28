@@ -1,7 +1,16 @@
 {
-  "stage": "ideation",
+  "stage": "decision",
   "selected_candidate": null,
-  "outcome": {"status": "pending", "evidence": ""},
-  "submission": {"at": "", "receipt": ""},
-  "final_submission": {"at": "", "receipt": ""}
+  "outcome": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "submission": {
+    "at": "",
+    "receipt": ""
+  },
+  "final_submission": {
+    "at": "",
+    "receipt": ""
+  }
 }

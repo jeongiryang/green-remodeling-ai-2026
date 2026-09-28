@@ -455,6 +455,150 @@
       "checked_on": "2026-09-28",
       "locator": "수상 공지 본문",
       "finding": "2024 Kinder Light 장려상 교차 확인."
+    },
+    {
+      "id": "IDEA-S01",
+      "title": "그린리모델링 창조센터 공공건축물 지원사업",
+      "url": "https://www.greenremodeling.or.kr/n1/business/bus1000.asp",
+      "checked_on": "2026-09-28",
+      "locator": "사업 소개·지원 공사·사업 절차",
+      "finding": "에너지 성능과 이용환경 개선, 창호·단열·폐열회수 환기 등 기술과 사후관리 업무를 확인. 특정 사업 지원자격을 모든 후보 건물에 적용하지 않음."
+    },
+    {
+      "id": "IDEA-S02",
+      "title": "ENERGY STAR: 10 Tips for Hiring a Heating and Cooling Contractor",
+      "url": "https://www.energystar.gov/saveathome/heating-cooling/10-tips-hiring",
+      "checked_on": "2026-09-28",
+      "locator": "항목 6~8",
+      "finding": "항목별 서면 견적에서 비용·효율·보증·모델 등을 비교하도록 안내. 미국 HVAC 계약 안내로 한국 창호 소비자 피해 빈도나 우리 서비스 수요를 입증하지 않음."
+    },
+    {
+      "id": "IDEA-S03",
+      "title": "한국에너지공단 효율관리제도 창세트 검색",
+      "url": "https://eep.energy.or.kr/certification/certi_list_144.aspx",
+      "checked_on": "2026-09-28",
+      "locator": "제품 표·사용자 주의사항",
+      "finding": "HTTP 200. 모델별 상세 연결 확인. 생산시점·적용 기준에 따라 등급이 달라질 수 있으므로 조회일과 제품 일치를 확인해야 함. 공개 API나 일괄 재배포 허가를 확인한 것은 아님."
+    },
+    {
+      "id": "IDEA-S04",
+      "title": "한국에너지공단 창세트 제품 상세: HS 93mm CM",
+      "url": "https://eep.energy.or.kr/certification/certi_view_144.aspx?no=144251406",
+      "checked_on": "2026-09-28",
+      "locator": "제품 상세정보",
+      "finding": "직접 받은 HTML에서 업체명·모델명·프레임·유리 구성·열관류율 1.175 W/(m²·K)·효율등급 2 확인. 기밀성등급·완료일자는 추출상 값이 비어 있어 미확인. 이 제품의 수치이지 전체 창호의 대표값이 아님."
+    },
+    {
+      "id": "IDEA-S05",
+      "title": "KCL 창호 시험 안내",
+      "url": "https://www.kcl.re.kr/site/homepage/menu/viewMenu.do?menuid=001012002001002",
+      "checked_on": "2026-09-28",
+      "locator": "창세트·커튼월 시험 항목",
+      "finding": "창호 성능에 열관류율·기밀·수밀 등 별도 시험 항목이 있음을 확인. 제품 간 동등성이나 법정 적합 여부를 자동 판정하는 근거는 아님."
+    },
+    {
+      "id": "IDEA-S06",
+      "title": "SI-SO 공식 서비스 소개",
+      "url": "https://www.si-so.co.kr/",
+      "checked_on": "2026-09-28",
+      "locator": "AI 견적 분석 기능 소개",
+      "finding": "견적 사진 OCR·시장가격 비교·공종 누락 확인을 안내한다. 소개 페이지 기능을 확인했으며 실제 계정 사용이나 정확도 검증은 하지 않음."
+    },
+    {
+      "id": "IDEA-S07",
+      "title": "Daikin VAM150FC/VAM250FC 운전 설명서",
+      "url": "https://www.daikin.eu/content/dam/document-library/operation-manuals/vent/heat-reclaim-ventilation/vam-fc9/VAM-FC9_4PEN586308-1_2019_06_operation%20manual_English.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "PDF 3~7쪽(본문 1~5쪽), 문서 4P586308-1, 2019.06",
+      "finding": "12쪽 PDF를 내려받아 읽음. 사용자 변경 시 설명서 인계, 연결 방식별 조작 차이, 자동·열회수·바이패스 모드 및 자격 있는 담당자만 유지관리하도록 안내. 해외 특정 모델의 샘플이며 국내 설치 모델과 일치한다고 가정하지 않음."
+    },
+    {
+      "id": "IDEA-S08",
+      "title": "LG 바스에어시스템 욕실일반배기팬 사용설명서",
+      "url": "https://gscs-b2c.lge.com/open/downloadFile?fileId=qCPtkQpmgZsFhzrrFb9Nw",
+      "checked_on": "2026-09-28",
+      "locator": "PDF 1·6·8~10쪽, MFL05851602",
+      "finding": "16쪽 PDF 접근 확인. 욕실일반배기팬으로 가정용이며 열회수 환기설비 설명서가 아님. 다른 장치의 설명서를 그린 환기설비에 잘못 매칭하는 부정 사례로만 사용."
+    },
+    {
+      "id": "IDEA-S09",
+      "title": "CBE Occupant Survey",
+      "url": "https://cbe.berkeley.edu/resources/occupant-survey/",
+      "checked_on": "2026-09-28",
+      "locator": "서비스 목적·보고서 설명",
+      "finding": "이용자 의견으로 건물의 문제를 파악하고 운영·설계 개선을 돕는 설문 서비스가 이미 존재. 한국 노후 다세대의 수요 조사는 아님."
+    },
+    {
+      "id": "IDEA-S10",
+      "title": "CBE What We Measure",
+      "url": "https://cbe.berkeley.edu/resources/occupant-survey/what-we-measure/",
+      "checked_on": "2026-09-28",
+      "locator": "측정 영역·건물 유형",
+      "finding": "열쾌적·공기질 등 이용자 경험의 분류 및 보고서 활용 확인. 참여자 원자료를 다운로드한 것이 아니며 우리 AI 학습 데이터로 확보했다고 볼 수 없음."
+    },
+    {
+      "id": "IDEA-S11",
+      "title": "CBE Survey FAQs",
+      "url": "https://cbe.berkeley.edu/resources/occupant-survey/survey-faqs/",
+      "checked_on": "2026-09-28",
+      "locator": "저작권·설문 이용·언어 안내",
+      "finding": "설문 문항과 벤치마킹 지표 복제를 허용하지 않는다고 명시. 우리 후보는 자체 문항과 직접 작성한 합성 사례로 검증하며 CBE 문항을 복사하지 않음."
+    },
+    {
+      "id": "IDEA-S12",
+      "title": "IEA Asset values",
+      "url": "https://www.iea.org/reports/asset-values",
+      "checked_on": "2026-09-28",
+      "locator": "Split incentives 설명",
+      "finding": "임대인이 초기 효율개선 비용을 부담하고 임차인이 에너지비용 편익을 얻는 이해관계 문제를 설명. 한국 건물의 갈등 발생률·임대료·우리 플랫폼의 지불의사 증거는 아님."
+    },
+    {
+      "id": "IDEA-S13",
+      "title": "호주 정부 HVAC factsheet: Green leases",
+      "url": "https://www.energy.gov.au/publications/hvac-factsheet-green-leases",
+      "checked_on": "2026-09-28",
+      "locator": "2013 자료 소개 본문",
+      "finding": "임대인·임차인이 건물 환경성과를 함께 관리하는 기존 그린리스 접근을 소개. 한국 임대차 법률의 근거나 최신 국내 계약서로 쓰지 않음. 링크된 PDF 전체는 이 기록의 근거가 아님."
+    },
+    {
+      "id": "IDEA-S14",
+      "title": "EVO Measurement and Verification",
+      "url": "https://www.evo-world.org/en/807-main-menu/m-v",
+      "checked_on": "2026-09-28",
+      "locator": "M&V 정의·원칙·operational verification",
+      "finding": "절감은 전후 사용량과 조건 변화의 조정을 통해 산정하며 데이터·가정·불확실성을 투명하게 기록해야 함. 간단한 앱 결과를 인증된 M&V 성과로 표시하지 않음."
+    },
+    {
+      "id": "IDEA-S15",
+      "title": "Building Data Genome 2 공식 저장소",
+      "url": "https://github.com/buds-lab/building-data-genome-project-2",
+      "checked_on": "2026-09-28",
+      "locator": "README·data/metadata·data/weather·data/meters/raw",
+      "finding": "2016~2017년 북미·유럽 1,636개 건물·3,053개 계량기 데이터 소개. 메타데이터 1,636행·기상 331,166행·전력 앞 24시간 실제 읽음. 국내 리모델링 전후 데이터가 아님."
+    },
+    {
+      "id": "IDEA-S16",
+      "title": "Building Data Genome 2 LICENSE",
+      "url": "https://github.com/buds-lab/building-data-genome-project-2/blob/master/LICENSE",
+      "checked_on": "2026-09-28",
+      "locator": "LICENSE 첫머리·조건 전체",
+      "finding": "받은 파일 첫머리는 Attribution-ShareAlike 4.0 Unported로 표시. 외부 데이터 소개의 CC BY 표기만 믿지 않고 저자표시·동일조건 가능성을 보수적으로 반영. 원자료 재배포는 하지 않으며 배포 전 실제 이용 범위와 라이선스 관계 재확인 필요."
+    },
+    {
+      "id": "IDEA-S17",
+      "title": "BDG2 저자 데이터 논문",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7591488/",
+      "checked_on": "2026-09-28",
+      "locator": "Data Records·weather·meter data 설명",
+      "finding": "건물 메타정보·시간별 계량·기상 변수 구조와 단위 설명 확인. 해외 여러 용도의 건물 데이터이며 리모델링 인과효과 정답 자료가 아님."
+    },
+    {
+      "id": "IDEA-S18",
+      "title": "OpenDSM 공식 저장소",
+      "url": "https://github.com/opendsm/opendsm",
+      "checked_on": "2026-09-28",
+      "locator": "README Background·Features",
+      "finding": "OpenEEmeter에서 이어진 정규화 사용량·반사실 비교 도구. 일·월·시간 모델과 데이터 충분성 검사·경고 보고 기능을 이미 제공. 설치·호환성·정확도는 직접 시험하지 않음."
     }
   ]
 }
