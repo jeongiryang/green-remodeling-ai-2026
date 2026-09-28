@@ -1,0 +1,377 @@
+{
+  "checked_on": "2026-09-28",
+  "note": "Public repositories only; repository search is not authenticated code search and does not cover private/deleted repositories.",
+  "queries": [
+    {
+      "query": "그린리모델링",
+      "total_count": 3,
+      "incomplete_results": false,
+      "items": [
+        {
+          "full_name": "leehangang/zeb-bim-tool",
+          "html_url": "https://github.com/leehangang/zeb-bim-tool",
+          "description": "BIM 기반 그린리모델링 의사결정 플랫폼",
+          "created_at": "2026-05-30T03:32:21Z",
+          "pushed_at": "2026-07-28T05:09:41Z"
+        },
+        {
+          "full_name": "edward321416-maker/green-remodeling-map",
+          "html_url": "https://github.com/edward321416-maker/green-remodeling-map",
+          "description": "\"수원시 팔달구 그린리모델링 후보 건축물 발굴 지도 (2026.05)\"",
+          "created_at": "2026-05-24T03:01:13Z",
+          "pushed_at": "2026-05-24T03:18:35Z"
+        }
+      ],
+      "returned_public_count": 2
+    },
+    {
+      "query": "green-remodeling",
+      "total_count": 15,
+      "incomplete_results": false,
+      "items": [
+        {
+          "full_name": "fcnd-jpg/AU-GR",
+          "html_url": "https://github.com/fcnd-jpg/AU-GR",
+          "description": "help green-remodeling",
+          "created_at": "2025-09-12T05:15:03Z",
+          "pushed_at": "2025-09-12T05:22:35Z"
+        },
+        {
+          "full_name": "kobs02/green-remodeling",
+          "html_url": "https://github.com/kobs02/green-remodeling",
+          "description": "mockup for green remodeling contest",
+          "created_at": "2026-09-27T05:22:06Z",
+          "pushed_at": "2026-09-27T06:49:58Z"
+        },
+        {
+          "full_name": "greenej/Johnnie-Green",
+          "html_url": "https://github.com/greenej/Johnnie-Green",
+          "description": "Green Landscape, Lawn Care and Remodeling Service",
+          "created_at": "2014-04-19T02:19:58Z",
+          "pushed_at": "2014-04-19T02:19:58Z"
+        },
+        {
+          "full_name": "wky-study/GreenRemodelingPlatform",
+          "html_url": "https://github.com/wky-study/GreenRemodelingPlatform",
+          "description": null,
+          "created_at": "2024-11-01T08:40:28Z",
+          "pushed_at": "2024-12-09T08:26:12Z"
+        },
+        {
+          "full_name": "benamin-rankfortress/Green-Z-Remodeling",
+          "html_url": "https://github.com/benamin-rankfortress/Green-Z-Remodeling",
+          "description": null,
+          "created_at": "2023-11-29T03:05:24Z",
+          "pushed_at": "2023-11-29T03:06:30Z"
+        },
+        {
+          "full_name": "alswl123494-stack/undang-green-remodeling",
+          "html_url": "https://github.com/alswl123494-stack/undang-green-remodeling",
+          "description": null,
+          "created_at": "2026-09-19T15:54:24Z",
+          "pushed_at": "2026-09-19T15:54:25Z"
+        },
+        {
+          "full_name": "jungseungoh/project_green_remodeling",
+          "html_url": "https://github.com/jungseungoh/project_green_remodeling",
+          "description": "[최우수상 수상작] 2023년 서울시 빅데이터 캠퍼스 공모전 | 거주취약계층의 주거 환경 개선을 위한 Green Re-modeling 우선 지역 선정 및 활성화 제언",
+          "created_at": "2024-08-05T15:35:04Z",
+          "pushed_at": "2024-10-23T04:37:32Z"
+        },
+        {
+          "full_name": "edward321416-maker/green-remodeling-map",
+          "html_url": "https://github.com/edward321416-maker/green-remodeling-map",
+          "description": "\"수원시 팔달구 그린리모델링 후보 건축물 발굴 지도 (2026.05)\"",
+          "created_at": "2026-05-24T03:01:13Z",
+          "pushed_at": "2026-05-24T03:18:35Z"
+        },
+        {
+          "full_name": "leejunwoo0525/Green-Remodeling-Insulation-Recommendation-Program",
+          "html_url": "https://github.com/leejunwoo0525/Green-Remodeling-Insulation-Recommendation-Program",
+          "description": null,
+          "created_at": "2025-10-15T09:19:14Z",
+          "pushed_at": "2025-10-15T09:19:15Z"
+        },
+        {
+          "full_name": "paulotoner-commits/teste1",
+          "html_url": "https://github.com/paulotoner-commits/teste1",
+          "description": "create a landpage with real gold texture and use army green on it too for a luxury bathroom remodeling",
+          "created_at": "2026-04-20T06:26:29Z",
+          "pushed_at": "2026-04-20T06:26:30Z"
+        },
+        {
+          "full_name": "leosb12/Orlando-Custom",
+          "html_url": "https://github.com/leosb12/Orlando-Custom",
+          "description": "Responsive website for a painting, tile installation, and remodeling business in Bowling Green, KY, built with React, Vite, and Tailwind CSS.",
+          "created_at": "2026-03-04T00:14:51Z",
+          "pushed_at": "2026-08-17T19:53:42Z"
+        },
+        {
+          "full_name": "ClassicsWoTWorkshop/Object-252U-Remodel-or-Defender-Skin-Removal",
+          "html_url": "https://github.com/ClassicsWoTWorkshop/Object-252U-Remodel-or-Defender-Skin-Removal",
+          "description": "Object 252U Remodel / 'Defender' Permaskin Removal for World of Tanks. Done in the standard Soviet green paint, with fully-reworked hull textures.",
+          "created_at": "2017-03-22T20:19:29Z",
+          "pushed_at": "2021-01-03T06:12:11Z"
+        },
+        {
+          "full_name": "ClassicsWoTWorkshop/STG-Remodel-or-Guard-Skin-Removal",
+          "html_url": "https://github.com/ClassicsWoTWorkshop/STG-Remodel-or-Guard-Skin-Removal",
+          "description": "STG Remodel / 'Guard' Permaskin Removal for World of Tanks. Done in the standard Soviet green paint, with fully-reworked hull and turret textures.",
+          "created_at": "2017-09-11T03:59:03Z",
+          "pushed_at": "2021-01-03T06:11:58Z"
+        },
+        {
+          "full_name": "danderfer/Comp_Sci_Sem_2",
+          "html_url": "https://github.com/danderfer/Comp_Sci_Sem_2",
+          "description": "According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because bees don’t care what humans think is impossible.” ",
+          "created_at": "2022-06-07T20:15:11Z",
+          "pushed_at": "2023-04-03T17:47:53Z"
+        }
+      ],
+      "returned_public_count": 14
+    },
+    {
+      "query": "greenremodeling",
+      "total_count": 3,
+      "incomplete_results": false,
+      "items": [
+        {
+          "full_name": "yonghwan1106/greenremodeling",
+          "html_url": "https://github.com/yonghwan1106/greenremodeling",
+          "description": null,
+          "created_at": "2025-12-03T01:45:31Z",
+          "pushed_at": "2025-12-19T03:26:03Z"
+        },
+        {
+          "full_name": "orangemodel7-arch/greenremodeling",
+          "html_url": "https://github.com/orangemodel7-arch/greenremodeling",
+          "description": null,
+          "created_at": "2026-09-24T07:32:25Z",
+          "pushed_at": "2026-09-28T06:32:53Z"
+        },
+        {
+          "full_name": "wky-study/GreenRemodelingPlatform",
+          "html_url": "https://github.com/wky-study/GreenRemodelingPlatform",
+          "description": null,
+          "created_at": "2024-11-01T08:40:28Z",
+          "pushed_at": "2024-12-09T08:26:12Z"
+        }
+      ],
+      "returned_public_count": 3
+    },
+    {
+      "query": "\"그린리모델링 챌린지\" in:readme",
+      "total_count": 2,
+      "incomplete_results": false,
+      "items": [
+        {
+          "full_name": "hnuu785/prototype",
+          "html_url": "https://github.com/hnuu785/prototype",
+          "description": null,
+          "created_at": "2026-09-24T07:01:56Z",
+          "pushed_at": "2026-09-26T10:58:57Z"
+        }
+      ],
+      "returned_public_count": 1
+    },
+    {
+      "query": "\"Green Evolve\" in:readme",
+      "total_count": 11,
+      "incomplete_results": false,
+      "items": [
+        {
+          "full_name": "AgentSystemLabs/core",
+          "html_url": "https://github.com/AgentSystemLabs/core",
+          "description": null,
+          "created_at": "2026-04-24T18:00:39Z",
+          "pushed_at": "2026-07-24T06:08:52Z"
+        },
+        {
+          "full_name": "standard-library/kefir-evolve",
+          "html_url": "https://github.com/standard-library/kefir-evolve",
+          "description": null,
+          "created_at": "2017-05-09T08:09:38Z",
+          "pushed_at": "2023-01-04T04:47:38Z"
+        },
+        {
+          "full_name": "lanl/allium",
+          "html_url": "https://github.com/lanl/allium",
+          "description": "High-performance library for deterministic thermal radiative transfer",
+          "created_at": "2026-03-09T18:48:38Z",
+          "pushed_at": "2026-09-01T15:27:09Z"
+        },
+        {
+          "full_name": "backstop-ai/backstop-core-architecture",
+          "html_url": "https://github.com/backstop-ai/backstop-core-architecture",
+          "description": "Backstop Core package-topology enforcement pack",
+          "created_at": "2026-08-01T20:25:10Z",
+          "pushed_at": "2026-09-03T11:24:28Z"
+        },
+        {
+          "full_name": "mustafansiddiqi/dap_final_project",
+          "html_url": "https://github.com/mustafansiddiqi/dap_final_project",
+          "description": "DAP Final Project",
+          "created_at": "2026-02-08T03:14:42Z",
+          "pushed_at": "2026-04-23T03:36:11Z"
+        },
+        {
+          "full_name": "KartikB28/NeuralScope",
+          "html_url": "https://github.com/KartikB28/NeuralScope",
+          "description": null,
+          "created_at": "2026-06-12T08:20:30Z",
+          "pushed_at": "2026-06-13T06:24:49Z"
+        },
+        {
+          "full_name": "SimiaCryptus/Arcade_of_Life",
+          "html_url": "https://github.com/SimiaCryptus/Arcade_of_Life",
+          "description": "Zero-dependency browser PWA — an arcade game collection powered by Conway's Game of Life and 50+ cellular-automata rulesets, with a pluggable CPU/WebGL2 backend, hashlife memoization, and a full level designer.",
+          "created_at": "2026-06-05T02:58:29Z",
+          "pushed_at": "2026-09-18T23:10:13Z"
+        },
+        {
+          "full_name": "charvel87/matchix",
+          "html_url": "https://github.com/charvel87/matchix",
+          "description": null,
+          "created_at": "2026-07-05T00:28:39Z",
+          "pushed_at": "2026-07-05T00:28:48Z"
+        },
+        {
+          "full_name": "tjsdyy/dshplugin",
+          "html_url": "https://github.com/tjsdyy/dshplugin",
+          "description": "Deepseek harness plugin market",
+          "created_at": "2026-08-14T04:29:30Z",
+          "pushed_at": "2026-09-12T15:30:53Z"
+        },
+        {
+          "full_name": "4way4eva/-3-",
+          "html_url": "https://github.com/4way4eva/-3-",
+          "description": "ŘÊÎĠN",
+          "created_at": "2025-10-12T22:37:31Z",
+          "pushed_at": "2025-12-13T16:56:05Z"
+        },
+        {
+          "full_name": "BleuS0sa/-3-4",
+          "html_url": "https://github.com/BleuS0sa/-3-4",
+          "description": "ŘÊÎĠN",
+          "created_at": "2025-10-12T22:50:41Z",
+          "pushed_at": "2025-12-11T18:33:25Z"
+        }
+      ],
+      "returned_public_count": 11
+    },
+    {
+      "query": "\"NATURE INTERFLOW\" in:readme",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": [],
+      "returned_public_count": 0
+    },
+    {
+      "query": "그린리모델링 in:readme",
+      "total_count": 14,
+      "returned_public_count": 13,
+      "incomplete_results": false,
+      "items": [
+        {
+          "full_name": "parkjikoon-hub/zcbi-platform",
+          "html_url": "https://github.com/parkjikoon-hub/zcbi-platform",
+          "description": "ZCBI 탄소중립 건축지수 시뮬레이션 플랫폼",
+          "created_at": "2026-04-09T01:24:48Z"
+        },
+        {
+          "full_name": "leehangang/zeb-bim-tool",
+          "html_url": "https://github.com/leehangang/zeb-bim-tool",
+          "description": "BIM 기반 그린리모델링 의사결정 플랫폼",
+          "created_at": "2026-05-30T03:32:21Z"
+        },
+        {
+          "full_name": "edward321416-maker/green-remodeling-map",
+          "html_url": "https://github.com/edward321416-maker/green-remodeling-map",
+          "description": "\"수원시 팔달구 그린리모델링 후보 건축물 발굴 지도 (2026.05)\"",
+          "created_at": "2026-05-24T03:01:13Z"
+        },
+        {
+          "full_name": "ildangajo/GreenScan",
+          "html_url": "https://github.com/ildangajo/GreenScan",
+          "description": "",
+          "created_at": "2026-09-11T01:35:42Z"
+        },
+        {
+          "full_name": "leehojun-one/hrws_window",
+          "html_url": "https://github.com/leehojun-one/hrws_window",
+          "description": "",
+          "created_at": "2026-07-06T07:16:22Z"
+        },
+        {
+          "full_name": "kobs02/green-remodeling",
+          "html_url": "https://github.com/kobs02/green-remodeling",
+          "description": "mockup for green remodeling contest",
+          "created_at": "2026-09-27T05:22:06Z"
+        },
+        {
+          "full_name": "EmmettHwang/roboworld",
+          "html_url": "https://github.com/EmmettHwang/roboworld",
+          "description": "로보월드캠퍼스",
+          "created_at": "2026-08-27T06:59:12Z"
+        },
+        {
+          "full_name": "hnuu785/prototype",
+          "html_url": "https://github.com/hnuu785/prototype",
+          "description": "",
+          "created_at": "2026-09-24T07:01:56Z"
+        },
+        {
+          "full_name": "dktpxmdkalshvps/react_realestate_checklst",
+          "html_url": "https://github.com/dktpxmdkalshvps/react_realestate_checklst",
+          "description": "2026년 기준 부동산 매수 지원 서비스",
+          "created_at": "2026-02-20T02:43:05Z"
+        },
+        {
+          "full_name": "hwasikJung/kreb-grep-2026-web",
+          "html_url": "https://github.com/hwasikJung/kreb-grep-2026-web",
+          "description": "GREP web migration - SEF-2026 public fork backend (Spring Boot 2.7 + MyBatis + eGovFrame) + Vue3/Quasar frontend",
+          "created_at": "2026-08-24T00:14:40Z"
+        },
+        {
+          "full_name": "ceosmile25-bot/climate-sim-lab",
+          "html_url": "https://github.com/ceosmile25-bot/climate-sim-lab",
+          "description": "",
+          "created_at": "2026-07-30T06:29:42Z"
+        },
+        {
+          "full_name": "Ryugi62/justenough",
+          "html_url": "https://github.com/Ryugi62/justenough",
+          "description": "Prove you qualify, not who you are — zero-knowledge eligibility on Midnight (Compact). Wallet-free demo, 112 tests.",
+          "created_at": "2026-09-24T03:37:19Z"
+        },
+        {
+          "full_name": "Hansol-S/hansol-s.github.io",
+          "html_url": "https://github.com/Hansol-S/hansol-s.github.io",
+          "description": "",
+          "created_at": "2025-02-05T12:01:42Z"
+        }
+      ]
+    },
+    {
+      "query": "\"Green Garden Library\" in:readme",
+      "total_count": 0,
+      "returned_public_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "\"Univ.earth\" in:readme",
+      "total_count": 0,
+      "returned_public_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "\"그린리모델링\" \"시그니처\" in:readme",
+      "total_count": 0,
+      "returned_public_count": 0,
+      "incomplete_results": false,
+      "items": []
+    }
+  ]
+}

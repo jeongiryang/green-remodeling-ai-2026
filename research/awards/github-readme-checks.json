@@ -1,0 +1,37 @@
+[
+  {
+    "repo": "wky-study/GreenRemodelingPlatform",
+    "readme": "absent",
+    "root_files": [
+      "GreenRePlat"
+    ]
+  },
+  {
+    "repo": "fcnd-jpg/AU-GR",
+    "readme": "absent",
+    "root_files": [
+      "final_app.py",
+      "requirements.txt"
+    ]
+  },
+  {
+    "repo": "leejunwoo0525/Green-Remodeling-Insulation-Recommendation-Program",
+    "readme": "absent",
+    "root_files": []
+  },
+  {
+    "repo": "yonghwan1106/greenremodeling",
+    "readme_url": "https://github.com/yonghwan1106/greenremodeling/blob/main/README.md",
+    "readme": "read"
+  },
+  {
+    "repo": "jungseungoh/project_green_remodeling",
+    "readme_url": "https://github.com/jungseungoh/project_green_remodeling/blob/main/README.md",
+    "readme": "read"
+  },
+  {
+    "repo": "Hansol-S/hansol-s.github.io",
+    "readme_url": "https://github.com/Hansol-S/hansol-s.github.io/blob/master/README.md",
+    "readme": "read"
+  }
+]

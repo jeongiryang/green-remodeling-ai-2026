@@ -1,3 +1,460 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "id": "AW-P2023-10",
+      "title": "제3회 공식 수상작: 그림 그리기",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2023&chal_part=10",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 9건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2023-20",
+      "title": "제3회 공식 수상작: 포스터 그리기",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2023&chal_part=20",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 9건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2023-90",
+      "title": "제3회 공식 수상작: 홍보 굿즈 제작",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2023&chal_part=90",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 4건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2023-91",
+      "title": "제3회 공식 수상작: 홍보송",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2023&chal_part=91",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 5건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2023-70",
+      "title": "제3회 공식 수상작: UCC제작",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2023&chal_part=70",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 6건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2023-40",
+      "title": "제3회 공식 수상작: 에너지 및 온실가스 저감",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2023&chal_part=40",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 8건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-10",
+      "title": "제4회 공식 수상작: 그림 그리기(유치부,초등1)",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=10",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 3건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-11",
+      "title": "제4회 공식 수상작: 그림 그리기(초등2,3)",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=11",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 5건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-20",
+      "title": "제4회 공식 수상작: 포스터 그리기",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=20",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 5건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-30",
+      "title": "제4회 공식 수상작: 글짓기",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=30",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 5건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-40",
+      "title": "제4회 공식 수상작: 에너지 및 온실가스 저감",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=40",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 6건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-50",
+      "title": "제4회 공식 수상작: 쇼츠(Shorts) 영상 제작",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=50",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 6건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2024-60",
+      "title": "제4회 공식 수상작: 아이디어 발굴",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2024&chal_part=60",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 6건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-10",
+      "title": "제5회 공식 수상작: 그림 그리기",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=10",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 4건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-20",
+      "title": "제5회 공식 수상작: 포스터 그리기",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=20",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 0건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-30",
+      "title": "제5회 공식 수상작: 에너지 및 온실가스 저감",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=30",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 4건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-40",
+      "title": "제5회 공식 수상작: 홍보 슬로건 제작",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=40",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 4건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-50",
+      "title": "제5회 공식 수상작: 정책 아이디어 발굴",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=50",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 5건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-60",
+      "title": "제5회 공식 수상작: (AI활용) 쇼츠 영상 제작",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=60",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 4건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-P2025-70",
+      "title": "제5회 공식 수상작: 현판 디자인",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal7000.asp?workyy=2025&chal_part=70",
+      "checked_on": "2026-09-28",
+      "locator": "연도·부문별 수상작 전체 목록",
+      "finding": "현재 공개 기록 4건. 입선 전체 공개 여부는 별도이며 research/awards/official-awards.json에 항목 및 응답 해시 보관."
+    },
+    {
+      "id": "AW-GR2023-40-01",
+      "title": "2023 최우수상: Green Garden Library",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120217472795943.pdf&downFileName=Green Garden Library_최지원,전상현,김양수(중앙대학교).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "노후 도서관에 아트리움·선큰·이중외피·태양광·BEMS를 결합한 통합 개선 설계. 절감 수치는 설계 계산으로 취급. 게시 목록의 세 번째 이름은 김양으로 표기되나 당시 시상 보도는 김양수로 표기. 메타데이터 원문을 임의 덮어쓰지 않음."
+    },
+    {
+      "id": "AW-GR2023-40-02",
+      "title": "2023 우수상: 친환경 소통도서관",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120217504065975.pdf&downFileName=소통도서관_천영록,장준영,김태수(성균관대학교).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "도시와 후면 녹지를 이어 주는 도서관 동선, 원형서가·아트리움과 차양·환기·태양광을 결합. 이용자 공간과 에너지 개선을 함께 제시. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2023-40-03",
+      "title": "2023 우수상: Reading Road",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=2512021753509669.pdf&downFileName=Reading Road_차혜림,김경현,김민서(공주대학교).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "길이 되는 도서관: 층별 이용 공간, 외부 경사로, 자연환기·채광, 모듈 외피와 BIPV·BEMS 계획. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2023-40-04",
+      "title": "2023 우수상: OCTA Library",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120217533556830.pdf&downFileName=OCTA Library_박준형,오인혁(충북대학교).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "팔각형 외피·루버와 아트리움, 녹화·태양광·환기·조명제어를 조합한 공원 속 도서관 설계. 에너지 시뮬레이션 전후 비교. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2023-40-05",
+      "title": "2023 장려상: PUZZLE",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120217542003736.pdf&downFileName=장려상(한국그린빌딩협의회 회장장)강찬혁,김유환,엄미현(광운대학교)-PUZZLE.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "도서관을 사람·자연과 연결하고 이중외피, 단열·창호, 열회수·태양광·BEMS를 결합. 실내 환경과 운영 에너지 개선을 함께 제안. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2023-40-06",
+      "title": "2023 장려상: BREEZE FOR BREATH",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120217545734943.pdf&downFileName=장려상(한국그린빌딩협의회 회장상)박영민,김광희,박지원(경상국립대학교)-BREEZE FOR BREATH.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "자연환기를 중심으로 이중외피·솔라침니·선큰·지열·축열 등을 조합. 기류 CFD와 에너지 계산을 함께 제시한 도서관 설계. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2023-40-07",
+      "title": "2023 장려상: Breath: Sustainable Library",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120217562131786.pdf&downFileName=장려상(한국그린빌딩협의회 회장상)성효경,조예린,최수연(부산대학교)-BREAH_SUSTAINABLE LIBRARY.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "기존 도서관의 원형 매스를 살리고 아트리움·녹화·루버·고성능창과 환기·지열·BEMS를 결합. 일사·열환경을 고려한 공간 개선. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2023-40-08",
+      "title": "2023 장려상: P-A-TH",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=2512021758806994.pdf&downFileName=장려상(한국그린빌딩협의회 회장상)김돈겸,김대헌,황보정빈-P-A-TH.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "주거·녹지·사람을 연결하는 도서관 동선과 패시브→액티브→신재생 순차 적용. 단계별 에너지 모델 비교가 특징. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2024-40-01",
+      "title": "2024 최우수상: NATURE INTERFLOW",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=2512102031633990.pdf&downFileName=(최우수) NATURE INTERFLOW.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "유치원의 물·공기·나무 경험과 자연 교류를 공간에 반영하고 채광·환기·단열·설비·태양광을 통합. 어린이 이용 특성과 에너지 성능을 연결. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2024-40-02",
+      "title": "2024 우수상: 푸르른",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215344473962.pdf&downFileName=(우수상) 푸르른.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "어린이집의 녹화·단열·창호·열회수환기·태양광·BEMS를 결합하고 ECO2-OD로 전후 성능을 제시. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2024-40-03",
+      "title": "2024 우수상: 초고령도시를 위한 탄소중립 그린리모델링, 세대를 잇다",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215352180242.pdf&downFileName=(우수상) 초고령도시를 위한 탄소중립 그린리모델링, 세대를 잇다.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "초고령도시의 노인 여가·세대 교류 공간 개선. 창면적·차양·단열·고효율설비·태양광을 단계별 비교하며 이용자 편의·안전을 연결. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2024-40-04",
+      "title": "2024 장려상: Kinder Light",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215355449413.pdf&downFileName=(장려상) Kinder Light_.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "북향 개구부가 많은 노후 어린이집에 각도를 가진 트롬월을 제안. Grasshopper·Ladybug 등 기후·에너지 모델링과 대안 비교를 제시. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2024-40-05",
+      "title": "2024 장려상: 햇살아래 어린이집",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215361922753.pdf&downFileName=(장려상) 햇살아래 어린이집.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "목록상 작품은 햇살아래 어린이집. 연결 PDF의 실제 제목은 Sunlit Grove for Elderly이고 대상은 경로당. 목록/첨부 내용 불일치. 다른 작품의 내용을 이 팀의 설계로 귀속시키지 않음. 운영기관 확인 필요."
+    },
+    {
+      "id": "AW-GR2024-40-06",
+      "title": "2024 장려상: Sunlit Grove for Elderly",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215365299035.pdf&downFileName=(장려상) Sunlit Grove for Elderly.pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "목록상 작품은 Sunlit Grove for Elderly. 연결 PDF의 실제 제목은 KINDERGARTEN: Cloud, Rain, Sun이고 대상은 어린이집. 목록/첨부 내용 불일치. 실제 Sunlit 제목의 패널은 이전 항목의 링크에서 발견했지만 저자·파일 연결을 임의 정정하지 않음."
+    },
+    {
+      "id": "AW-GR2024-60-01",
+      "title": "2024 최우수상: 실내 조도량에 따른 각도 조절 광선반 시스템에 관한 제안 - 모듈러 공법이 적용된 `학교 건축물`을 중심으로",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=2512021553564086.hwp&downFileName=(최우수) 실내 조도량에 따른 각도 조절 광선반 시스템에 관한 제안 - 모듈러 공법이 적용된 '학교 건축물'을 중심으로.hwp",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "모듈러 학교 건축물에서 실내 조도에 따라 광선반 각도를 조절하고 태양광·조명 제어를 연계. 센서 입력→구동→조도 확인이라는 검증 흐름 참고. 물리 장치·설치 조건이 필요한 제안. 우리 팀의 구현 가능성이 자동으로 입증되는 것은 아님."
+    },
+    {
+      "id": "AW-GR2024-60-02",
+      "title": "2024 우수상: 자연환기에 도움을 주는 파사드디자인 연구",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215534700420.hwp&downFileName=(우수) 자연환기에 도움을 주는 파사드디자인 연구.hwp",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "자연환기에 유리한 파사드 형태를 Rhino·Grasshopper·Eddy3D 등으로 비교. 풍환경 시뮬레이션에 기반한 형태 제안. 시뮬레이션 결과를 실제 시공 후 실측 효과로 해석하지 않음."
+    },
+    {
+      "id": "AW-GR2024-60-03",
+      "title": "2024 우수상: 내 주변 그린리모델링 찾아주는 그린리모델링 MAP",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215542684411.hwp&downFileName=(우수) 내 주변 그린리모델링 찾아주는 그린리모델링 MAP.hwp",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "주변 그린리모델링 건물을 지도에서 찾고 전후 모습·에너지등급·지원정책·커뮤니티를 연결하는 PC/모바일/태블릿 서비스 제안. 원문은 제작이라고 표현하지만 공개 운영 주소·수상작 코드·사용자 실증을 확인하지 못함. 최초성 주장도 독립 검증하지 않음."
+    },
+    {
+      "id": "AW-GR2024-60-04",
+      "title": "2024 장려상: 그린리모델링 에코 게스트하우스",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215551686150.hwp&downFileName=(장려) 그린리모델링 에코 게스트하우스.hwp",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "빈집·폐가를 안전성과 에너지 성능 개선 후 게스트하우스로 활용하고 지역 문화·관광·공동체 수익과 연결하는 제안. 시설 확보·공사·운영 협력이 필요한 사업 모델. 앱만으로 전체 효과를 실현할 수 없음."
+    },
+    {
+      "id": "AW-GR2024-60-05",
+      "title": "2024 장려상: 농촌 주거 환경 개선을 위한 그린리모델링 가이드라인 개발 및 지원 방안",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215561158814.hwp&downFileName=(장려) 농촌 주거 환경 개선을 위한 그린리모델링 가이드라인 개발 및 지원 방안.hwp",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "농촌 노후 소형주택의 단열·창호·태양광 등을 표준 설계·기술 가이드와 지원 방안으로 묶는 제안. 실제 적용 가능한 지역·사업 요건은 최신 공식 자료로 별도 검증해야 함."
+    },
+    {
+      "id": "AW-GR2024-60-06",
+      "title": "2024 장려상: 실사용량 기반 에너지 시그니처를 활용한 그린리모델링 효과분석 및 우선순위 선정",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25120215565832404.hwp&downFileName=(장려) 실사용량 기반 에너지 시그니처를 활용한 그린리모델링 효과분석 및 우선순위 선정.hwp",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "실제 에너지 사용량과 외기온도를 변화점 회귀모형(CPM)으로 분석해 기저부하·냉난방 특성, 전후 효과 및 우선순위를 비교하는 제안. 입력은 실사용량이지만 절감 효과는 모델 기반 추정. 반동효과·시공하자의 인과 진단이나 모델 성능이 독립 검증된 것은 아님. 코드·데이터 미확인."
+    },
+    {
+      "id": "AW-GR2025-30-01",
+      "title": "2025 최우수상: Green Evolve",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614264156003.pdf&downFileName=1. (최우수상) Green Evolve(이가연,노지윤_중앙대).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "노후 대학 건물을 패시브·액티브·신재생으로 개선. NSGA-II로 에너지와 내재탄소의 절충을 탐색하고 센서·재실확률 예측에 따른 AI-BEMS 제어안을 제시. RF·ANN·LSTM 등을 제안하지만 공개 학습 코드·데이터·운영 실측 확인은 안 됨. 패널의 약 46% 절감은 설계 계산으로 구분."
+    },
+    {
+      "id": "AW-GR2025-30-02",
+      "title": "2025 우수상: Univ.earth",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614271555414.pdf&downFileName=2. (우수상) Univ.earth(이지민,김명주_중앙대).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "노후 캠퍼스 건물의 이중외피·아트리움·열회수환기·태양광·BEMS를 결합. ECO2 전후 비교로 통합 설계를 설명. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2025-30-03",
+      "title": "2025 장려상: 제로에너지 성능 향상을 위한 통합 그린리모델링",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614274283628.pdf&downFileName=3. (장려상) 제로에너지 성능 향상을 위한 통합 그린리모델링(조형준,장현진_중앙대).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "대학 건물의 단열·설비·태양광·공간 개선과 IoT 센서/AI 소프트웨어를 통한 조명·냉난방 제어를 함께 제안. AI 개념이 패널에 있다는 것과 실행 가능한 시스템·학습모델을 공개했다는 것은 구분."
+    },
+    {
+      "id": "AW-GR2025-30-04",
+      "title": "2025 장려상: E-양현",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614281135042.pdf&downFileName=4. (장려상) E-양현(윤소연,오승혜,김재민,유상길_건국대).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "노후 기숙사 양현관의 외피·창호·옥상녹화·환기와 조용한 학습·휴식 공간을 통합 개선. ECO2-OD 단계별 모델 결과 제시. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2025-50-01",
+      "title": "2025 최우수상: 상가 건축물 그린리모델링 성능등기 및 탄소크레딧 거래제 도입 방안",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614492531621.pdf&downFileName=1. (최우수상) 상가 건축물 그린리모델링 성능등기 및 탄소크레딧 거래제 도입 방안(윤원재,안남주,안찬홍).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "상가 리모델링 성능을 기록·공시하고 감축 성과를 탄소크레딧 거래 및 재투자로 연결하는 정책 제안. 제도·검증·금융 및 이해관계자 협력 의존성이 큼. 이미 시행 중인 정책이나 실제 거래 실적으로 취급하지 않음."
+    },
+    {
+      "id": "AW-GR2025-50-02",
+      "title": "2025 우수상: 상상그린",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=2512261451194195.pdf&downFileName=2. (우수상) 상상그린(김은주,윤진국).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "고령자와 아동의 돌봄을 연결하는 그린리모델링 공동 공간. 가변 공간·환기·접근성 등 이용자 특성을 에너지 개선과 결합. 설계·제안 내용이며 실제 구현·운영 성과는 별도 확인 필요."
+    },
+    {
+      "id": "AW-GR2025-50-03",
+      "title": "2025 우수상: 공동체 재생 그린리모델링",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614513813984.pdf&downFileName=3. (우수상) 공동체 재생 그린리모델링(고병도).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "빈 건물을 세대 통합 주거·공동체 공간으로 재생. AI/IoT 돌봄, 생활 조건을 연결하는 온라인 플랫폼, 시간은행 등 공동체 운영 제안. 돌봄 데이터·운영 주체·시설 확보 등 여러 의존성이 있으며 구현·성과는 미확인."
+    },
+    {
+      "id": "AW-GR2025-50-04",
+      "title": "2025 장려상: 그린 리본 타운, 지역특화형 에너지혁신 모델 제안",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=2512261452550207.pdf&downFileName=4. (장려상) 그린 리본 타운, 지역특화형 에너지혁신 모델 제안(오영택).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "빈집·마을 재생을 리모델링·마이크로그리드·주거복지·돌봄·관광과 연결하는 지역 단위 에너지혁신 모델. 지자체·주민·전력·재정 협력이 필요한 규모. 팀의 단기 소프트웨어 시연 범위와 분리해야 함."
+    },
+    {
+      "id": "AW-GR2025-50-05",
+      "title": "2025 장려상: 에너지 연금형 그린 금융 정책",
+      "url": "https://greenremodeling.or.kr/n1/challenge/down.asp?folderName=chal_win&fileName=25122614522430024.pdf&downFileName=5. (장려상) 에너지 연금형 그린 금융(E-Pension Green Finance) 정책(김호경).pdf",
+      "checked_on": "2026-09-28",
+      "locator": "설계 패널/아이디어 본문; 자세한 검토 한계 research/awards/review-notes.json",
+      "finding": "고령층의 초기 비용 부담을 줄이기 위해 에너지 절감액과 대출 상환을 연계하는 금융 정책 제안. 원문 PDF 4쪽은 상환액=절감액이라고 하면서 계약 83만원−절감 15만원=실부담 68만원의 다른 예시를 제시하고 5쪽에서는 추가 비용 없음이라고 서술. 이 구조·부담 해소 주장은 재검토가 필요."
+    },
+    {
+      "id": "AW-EXT2023-01",
+      "title": "2023 추가 입선: 아이누리",
+      "url": "https://www.cbnu.ac.kr/www/selectBbsNttView.do?bbsNo=14&key=553&nttNo=34239&pageIndex=1&pageUnit=10&searchCnd=all",
+      "checked_on": "2026-09-28",
+      "locator": "대학·연구실 수상 발표 본문",
+      "finding": "대학의 2023-09-25 발표에서 입선·제목·팀 확인. 인천 도서관의 어린이 특화 공간 제안. 현재 공식 아카이브에 없음."
+    },
+    {
+      "id": "AW-EXT2023-02",
+      "title": "2023 추가 입선: Green B.A.F.A.P (Green Break Area For All people)",
+      "url": "https://dms.donga.ac.kr/bbs/archi/3062/148781/artclView.do",
+      "checked_on": "2026-09-28",
+      "locator": "대학·연구실 수상 발표 본문",
+      "finding": "학과의 2023-10-05 게시글과 상장·설계 패널을 시각 확인. 상장은 2023-09-06 입선이며 3인 명단 확인. 전 연령 이용자를 위한 도서관 공간 및 에너지 개선."
+    },
+    {
+      "id": "AW-EXT2024-01",
+      "title": "2024 추가 입선: 작품명 미확인",
+      "url": "https://www.hbelabcbnu.com/post/2023-그린리모델링-챌린지-입선",
+      "checked_on": "2026-09-28",
+      "locator": "대학·연구실 수상 발표 본문",
+      "finding": "URL에는 2023이 있으나 실제 제목은 2024 그린리모델링 챌린지 입선, 본문은 제4회, 게시 메타데이터는 2024-11-15. 본문에서 3인 입선 확인. 공개 렌더링은 어린이집이지만 작품 제목은 확인하지 못함."
+    },
+    {
+      "id": "AW-2023-TOTAL",
+      "title": "2023 제3회 시상식 보도",
+      "url": "https://www.newsis.com/view/NISX20230912_0002446401",
+      "checked_on": "2026-09-28",
+      "locator": "2023-09-12 기사 첫 문단",
+      "finding": "총 69편 수상작 선정. 현재 공식 아카이브 41건과 차이 있음."
+    },
+    {
+      "id": "AW-2025-RESULT",
+      "title": "제5회 공식 결과 공지",
+      "url": "https://greenremodeling.or.kr/n1/challenge/chal6000_view.asp?e_data_no=202512230003",
+      "checked_on": "2026-09-28",
+      "locator": "공지 첨부 결과표 이미지",
+      "finding": "25건과 현 아카이브 일치. 포스터 수상작 미선정 명시."
+    },
+    {
+      "id": "AW-EVOLVE-INTERVIEW",
+      "title": "Green Evolve 수상자 인터뷰",
+      "url": "https://www.greenremodeling.or.kr/n1/report2/view.asp?seq_=56",
+      "checked_on": "2026-09-28",
+      "locator": "제5회 수상작 인터뷰 본문",
+      "finding": "2025 설계 최우수 Green Evolve의 설계와 AI-BEMS 구상 설명. 공개 코드나 운영 실증 확인으로 볼 수 없음."
+    },
+    {
+      "id": "AW-GITHUB-OTHER",
+      "title": "다른 공모전: 그린리모델링 우선지역 분석 저장소",
+      "url": "https://github.com/jungseungoh/project_green_remodeling",
+      "checked_on": "2026-09-28",
+      "locator": "README 및 저장소 설명",
+      "finding": "2023 서울시 빅데이터캠퍼스 최우수상으로 표시. 그린리모델링 챌린지 수상작으로 집계하지 않음."
+    },
+    {
+      "id": "AW-KINDER-LAB",
+      "title": "Kinder Light 연구실 수상 공지",
+      "url": "https://bemlab.yonsei.ac.kr/notice/?bmode=view&idx=134131748",
+      "checked_on": "2026-09-28",
+      "locator": "수상 공지 본문",
+      "finding": "2024 Kinder Light 장려상 교차 확인."
+    }
+  ]
 }

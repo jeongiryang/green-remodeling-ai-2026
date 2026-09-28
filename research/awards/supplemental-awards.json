@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-09-28",
+  "scope": "공식 아카이브 102건과 중복되지 않는 대학·연구실 발표의 입선 3건. 제목 미확인 1건 포함.",
+  "records": [
+    {
+      "id": "EXT2023-01", "year": 2023, "edition": 3,
+      "category": "에너지 및 온실가스 저감", "award": "입선",
+      "title": "아이누리", "creator": "최준수, 김수혁, 유지수", "affiliation": "충북대학교",
+      "source_url": "https://www.cbnu.ac.kr/www/selectBbsNttView.do?bbsNo=14&key=553&nttNo=34239&pageIndex=1&pageUnit=10&searchCnd=all",
+      "finding": "대학의 2023-09-25 발표에서 입선·제목·팀 확인. 인천 도서관의 어린이 특화 공간 제안. 현재 공식 아카이브에 없음."
+    },
+    {
+      "id": "EXT2023-02", "year": 2023, "edition": 3,
+      "category": "에너지 및 온실가스 저감", "award": "입선",
+      "title": "Green B.A.F.A.P (Green Break Area For All people)", "creator": "김태경, 김지훈, 이호영", "affiliation": "동아대학교",
+      "source_url": "https://dms.donga.ac.kr/bbs/archi/3062/148781/artclView.do",
+      "artifact_urls": ["https://dms.donga.ac.kr/dext5editordata/2023/10/20231005_093240872_02650.jpg"],
+      "finding": "학과의 2023-10-05 게시글과 상장·설계 패널을 시각 확인. 상장은 2023-09-06 입선이며 3인 명단 확인. 전 연령 이용자를 위한 도서관 공간 및 에너지 개선."
+    },
+    {
+      "id": "EXT2024-01", "year": 2024, "edition": 4,
+      "category": "에너지 및 온실가스 저감", "award": "입선",
+      "title": "작품명 미확인", "creator": "김나경, 한성환, 황도현", "affiliation": "충북대학교 HBE 연구실",
+      "source_url": "https://www.hbelabcbnu.com/post/2023-그린리모델링-챌린지-입선",
+      "finding": "URL에는 2023이 있으나 실제 제목은 2024 그린리모델링 챌린지 입선, 본문은 제4회, 게시 메타데이터는 2024-11-15. 본문에서 3인 입선 확인. 공개 렌더링은 어린이집이지만 작품 제목은 확인하지 못함."
+    }
+  ]
+}
