@@ -44,6 +44,6 @@ GitHub Actions에서 구조·원본 검사와 하네스 동작 테스트를 실�
 - [공식 공고·서식 사본](contest/originals/)
 - [파일 출처 및 동일성 검증](contest/source_manifest.json)
 
-[기존 그린 AI 노션 페이지](https://app.notion.com/p/3e7b3295f8cb81da9d53f535c3cc4604) · [공식 참가 안내](https://www.2026grchallenge.com/front/board/boardDetail?bo_id=1&index_no=3&curPage=1)
+[그린 AI Notion 페이지](https://app.notion.com/p/3e7b3295f8cb81da9d53f535c3cc4604) · [2026 공모전 대시보드](https://app.notion.com/p/3e7b3295f8cb8165a146d70ab4c0e8d6) · [공식 참가 안내](https://www.2026grchallenge.com/front/board/boardDetail?bo_id=1&index_no=3&curPage=1)
 
-노션과의 자동 동기화는 설정되어 있지 않다. 이 인계에서는 노션을 수정하지 않았다.
+Notion과의 자동 동기화는 설정되어 있지 않다. 확인된 주요 진행 경과는 `AGENTS.md`의 기준에 따라 수동 갱신한다. 2026-09-28에 저장소·하네스 및 현재 주제 미정 상태를 두 페이지에 반영했다.
