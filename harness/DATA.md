@@ -31,6 +31,16 @@ URL이 있다는 이유만으로 확인 완료로 취급하지 않는다. 데이
   "user_flow":"이용자가 하는 행동→AI 출력→결정의 최소 흐름",
   "preliminary_visual":"예선 제안서에 넣을 한 화면·흐름도의 구체 내용",
   "finalist_scope":"본선에서 구현할 최소 이용 흐름",
+  "prototype_plan":{
+    "readiness":"ready",
+    "core_flow":"사용자 입력→AI 결과→사용자 확인의 시연 가능한 한 경로",
+    "data_mode":"실데이터/동의받은 입력/샘플 중 무엇을 어떻게 확보하는지",
+    "components":"화면·AI·저장·규칙검사 등 필요한 최소 구성요소",
+    "dependencies":"API 키·권한·장비·외부 승인·팀 기술 등 의존성",
+    "effort_estimate":"팀 가용시간을 고려한 예상 작업량과 가정",
+    "fallback":"데이터·모델·네트워크가 안 될 때의 대체 시연",
+    "acceptance_test":"본선 시연이 성공했다고 판정할 재현 가능한 입력과 기대 출력"
+  },
   "risks":"한계·오류 시 처리·외부 의존성",
   "source_ids":["S001"],
   "evidence":{"problem":["S001"],"green_link":["S001"],"data":["S001"],"alternative":["S001"]},
@@ -45,6 +55,8 @@ URL이 있다는 이유만으로 확인 완료로 취급하지 않는다. 데이
 ```
 
 위 S001 반복은 **형식 예시**일 뿐이다. 실제 후보에서는 `evidence`의 문제·그린리모델링 연결·데이터·기존 방식별로 원문에서 해당 내용을 확인한 출처 ID만 넣는다. `source_ids`에도 해당 ID가 있어야 한다. `harness/IDEATION.md`에 조사·반대 검토 절차가 있다.
+
+`prototype_plan.readiness`는 `ready`(현재 확인한 자료·팀 역량·시간으로 최소 시연 가능), `conditional`(특정 접근권한·장비·팀 역량 확인 필요), `blocked`(핵심 의존성 없음) 중 하나다. 이는 **팀의 내부 판단**이지 구현 완료나 본선 합격 보장이 아니다. `conditional`/`blocked` 후보도 비교할 수 있지만, 선정하려면 걸림돌을 해결하고 근거를 갱신해 `ready`로 바꿔야 한다. `effort_estimate`는 사람·시간 가정을 밝힌 추정치다.
 
 각 점수는 0~5. `status`는 공식 예선 가중치로 100점 환산한 내부 비교값을 표시한다. 최고점 자동 선정은 하지 않는다. `research/comparison.md`에 비교 이유·탈락 사유·추천과 불확실성을 설명한다. 결정 후 state의 `selected_candidate`와 `research/decision.md`에 근거·결정 주체·날짜를 기록한다.
 

@@ -40,6 +40,8 @@ CANDIDATE_FIELDS = ("title", "building", "user", "problem", "green_link", "ai_ro
                     "data_access", "ai_input", "ai_method", "ai_output", "ai_necessity",
                     "verification", "user_flow", "preliminary_visual")
 EVIDENCE_ROLES = ("problem", "green_link", "data", "alternative")
+PROTOTYPE_FIELDS = ("core_flow", "data_mode", "components", "dependencies",
+                    "effort_estimate", "fallback", "acceptance_test")
 PLACEHOLDER = re.compile(r"\b(?:TODO|TBD|FIXME)\b|작성 예정", re.I)
 
 
@@ -295,6 +297,11 @@ class Harness:
                         for source_id in evidence[role]) for role in EVIDENCE_ROLES
                 ):
                     errors.append(f"후보 문제·그린리모델링·데이터·기존 방식 근거 미완성: {row.get('id')}")
+                prototype = row.get("prototype_plan")
+                if not isinstance(prototype, dict) or prototype.get("readiness") not in {"ready", "conditional", "blocked"} or any(
+                    not nonempty(prototype.get(field)) for field in PROTOTYPE_FIELDS
+                ):
+                    errors.append(f"후보 본선 구현성 검토 미완성: {row.get('id')}")
                 for key in self.project["weights"]:
                     score = row.get("scores", {}).get(key, {})
                     if type(score.get("score")) not in (int, float) or not 0 <= score["score"] <= 5 or not nonempty(score.get("reason")):
@@ -303,6 +310,11 @@ class Harness:
         elif stage == "decision":
             if self.state.get("selected_candidate") not in {row["id"] for row in self.candidates}:
                 errors.append("선정 후보 ID 필요")
+            else:
+                selected = next(row for row in self.candidates if row["id"] == self.state["selected_candidate"])
+                prototype = selected.get("prototype_plan")
+                if not isinstance(prototype, dict) or prototype.get("readiness") != "ready":
+                    errors.append("선정 후보는 본선 최소 시연 가능 상태(ready)로 검토되어야 합니다")
             errors += self.artifact_checks("decision")
         elif stage == "proposal":
             errors += self.artifact_checks("proposal", "summary", "visuals", "ai_usage")

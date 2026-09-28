@@ -52,6 +52,8 @@ class WorkflowTests(unittest.TestCase):
             row = {key: "Fixture content" for key in module.CANDIDATE_FIELDS}
             row.update(id=f"I{i + 1}", source_ids=["S001"],
                        evidence={role: ["S001"] for role in module.EVIDENCE_ROLES},
+                       prototype_plan={**{field: "Fixture plan" for field in module.PROTOTYPE_FIELDS},
+                                       "readiness": "ready"},
                        scores={key: {"score": 3, "reason": "Fixture reason"} for key in self.h.project["weights"]})
             self.h.candidates.append(row)
         self.h.write("research/sources.json", {"sources": self.h.sources})
@@ -140,6 +142,19 @@ class WorkflowTests(unittest.TestCase):
         self.h.candidates[1]["evidence"]["alternative"] = ["missing"]
         self.assertEqual(2, sum("후보 문제·그린리모델링·데이터·기존 방식 근거" in error
                                 for error in self.h.check()))
+
+    def test_idea_requires_concrete_prototype_plan(self):
+        self.ideation()
+        self.h.candidates[0]["prototype_plan"]["data_mode"] = ""
+        self.h.candidates[1]["prototype_plan"]["readiness"] = "unclear"
+        self.assertEqual(2, sum("본선 구현성 검토 미완성" in error for error in self.h.check()))
+
+    def test_conditional_candidate_cannot_be_selected_yet(self):
+        self.ideation()
+        self.h.candidates[0]["prototype_plan"]["readiness"] = "conditional"
+        self.h.state["selected_candidate"] = "I1"
+        self.file(self.h.project["artifacts"]["decision"])
+        self.assertTrue(any("최소 시연 가능 상태" in error for error in self.h.check("decision")))
 
     def test_empty_template_is_not_evidence(self):
         self.ideation()
