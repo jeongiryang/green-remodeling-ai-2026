@@ -16,14 +16,24 @@ URL이 있다는 이유만으로 확인 완료로 취급하지 않는다. 데이
 {"candidates":[{
   "id":"I001","title":"후보명","building":"노후 건물 유형",
   "user":"주 사용자와 행동","problem":"구체적 문제",
+  "problem_evidence":"확인한 사실·출처와 아직 검증하지 못한 가설",
   "green_link":"단열·창호·설비·운영·사후관리와의 연결",
-  "ai_role":"입력→AI 처리→출력, AI가 필요한 이유",
+  "ai_role":"AI 역할의 한 문장 요약",
+  "ai_input":"AI에 넣을 실제 필드와 입력 주체",
+  "ai_method":"분류·추출·검색결합·추천 등 처리 방법과 실패 시 동작",
+  "ai_output":"사용자에게 보이는 결과와 다음 행동",
+  "ai_necessity":"규칙·검색·계산 방식보다 AI가 필요한 이유",
   "data_plan":"사용할 데이터·확보 상태·부족한 데이터와 대안",
+  "data_access":"실제 열어본 자료·접근 조건·권한·결측과 대체 입력",
   "baseline":"AI 없이 하는 방법과 비교·검증 방법",
+  "verification":"샘플·기준선·평가 방식·성공 및 실패 판정",
   "differentiation":"실제 기존 서비스와의 차이",
+  "user_flow":"이용자가 하는 행동→AI 출력→결정의 최소 흐름",
+  "preliminary_visual":"예선 제안서에 넣을 한 화면·흐름도의 구체 내용",
   "finalist_scope":"본선에서 구현할 최소 이용 흐름",
   "risks":"한계·오류 시 처리·외부 의존성",
   "source_ids":["S001"],
+  "evidence":{"problem":["S001"],"green_link":["S001"],"data":["S001"],"alternative":["S001"]},
   "scores":{
     "problem":{"score":0,"reason":"근거에 따른 내부 평가"},
     "fit":{"score":0,"reason":"근거"},
@@ -33,6 +43,8 @@ URL이 있다는 이유만으로 확인 완료로 취급하지 않는다. 데이
   }
 }]}
 ```
+
+위 S001 반복은 **형식 예시**일 뿐이다. 실제 후보에서는 `evidence`의 문제·그린리모델링 연결·데이터·기존 방식별로 원문에서 해당 내용을 확인한 출처 ID만 넣는다. `source_ids`에도 해당 ID가 있어야 한다. `harness/IDEATION.md`에 조사·반대 검토 절차가 있다.
 
 각 점수는 0~5. `status`는 공식 예선 가중치로 100점 환산한 내부 비교값을 표시한다. 최고점 자동 선정은 하지 않는다. `research/comparison.md`에 비교 이유·탈락 사유·추천과 불확실성을 설명한다. 결정 후 state의 `selected_candidate`와 `research/decision.md`에 근거·결정 주체·날짜를 기록한다.
 

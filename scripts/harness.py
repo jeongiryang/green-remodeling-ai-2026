@@ -16,7 +16,7 @@ KST = timezone(timedelta(hours=9))
 STAGES = ["ideation", "decision", "proposal", "review", "submission", "results",
           "finalist_plan", "implementation", "final_review"]
 NEXT = {
-    "ideation": "출처를 읽고 후보 3개 이상을 비교하세요. research/sources.json, candidates.json, comparison.md",
+    "ideation": "harness/IDEATION.md에 따라 문제·데이터·기존 방식의 근거를 조사하고 후보 3개 이상을 심층 비교하세요.",
     "decision": "후보 선택 근거를 기록하고 state.selected_candidate를 지정하세요. research/decision.md",
     "proposal": "선정 아이디어의 제안서·요약서·시각자료·AI 활용기록·주장 목록을 작성하세요.",
     "review": "실제 제출 파일과 팀 서류를 완성하고 예선 검토 기록을 채운 뒤 seal-review preliminary를 실행하세요.",
@@ -36,7 +36,10 @@ REVIEW_KEYS = {
               "user_accessibility", "demo_and_questions", "final_files_and_credits"},
 }
 CANDIDATE_FIELDS = ("title", "building", "user", "problem", "green_link", "ai_role", "data_plan",
-                    "baseline", "differentiation", "finalist_scope", "risks")
+                    "baseline", "differentiation", "finalist_scope", "risks", "problem_evidence",
+                    "data_access", "ai_input", "ai_method", "ai_output", "ai_necessity",
+                    "verification", "user_flow", "preliminary_visual")
+EVIDENCE_ROLES = ("problem", "green_link", "data", "alternative")
 PLACEHOLDER = re.compile(r"\b(?:TODO|TBD|FIXME)\b|작성 예정", re.I)
 
 
@@ -283,6 +286,15 @@ class Harness:
             for row in self.candidates:
                 if any(not nonempty(row.get(k)) for k in CANDIDATE_FIELDS) or not self.linked_sources(row):
                     errors.append(f"후보 설명·출처 미완성: {row.get('id')}")
+                evidence = row.get("evidence")
+                known = {source["id"] for source in self.sources}
+                candidate_sources = row.get("source_ids")
+                if not isinstance(evidence, dict) or set(evidence) != set(EVIDENCE_ROLES) or not isinstance(candidate_sources, list) or any(
+                    not isinstance(evidence[role], list) or not evidence[role] or
+                    any(not isinstance(source_id, str) or source_id not in known or source_id not in candidate_sources
+                        for source_id in evidence[role]) for role in EVIDENCE_ROLES
+                ):
+                    errors.append(f"후보 문제·그린리모델링·데이터·기존 방식 근거 미완성: {row.get('id')}")
                 for key in self.project["weights"]:
                     score = row.get("scores", {}).get(key, {})
                     if type(score.get("score")) not in (int, float) or not 0 <= score["score"] <= 5 or not nonempty(score.get("reason")):

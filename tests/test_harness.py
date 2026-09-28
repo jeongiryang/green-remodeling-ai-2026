@@ -51,6 +51,7 @@ class WorkflowTests(unittest.TestCase):
         for i in range(3):
             row = {key: "Fixture content" for key in module.CANDIDATE_FIELDS}
             row.update(id=f"I{i + 1}", source_ids=["S001"],
+                       evidence={role: ["S001"] for role in module.EVIDENCE_ROLES},
                        scores={key: {"score": 3, "reason": "Fixture reason"} for key in self.h.project["weights"]})
             self.h.candidates.append(row)
         self.h.write("research/sources.json", {"sources": self.h.sources})
@@ -126,6 +127,19 @@ class WorkflowTests(unittest.TestCase):
         self.h.candidates[0]["source_ids"] = ["missing"]
         self.h.candidates[1]["scores"]["problem"]["score"] = 6
         self.assertGreaterEqual(len(self.h.check()), 2)
+
+    def test_idea_requires_separate_ai_and_validation_details(self):
+        self.ideation()
+        self.h.candidates[0]["ai_necessity"] = ""
+        self.h.candidates[1]["verification"] = ""
+        self.assertEqual(2, sum("후보 설명·출처 미완성" in error for error in self.h.check()))
+
+    def test_idea_requires_traceable_evidence_for_each_question(self):
+        self.ideation()
+        self.h.candidates[0]["evidence"]["data"] = []
+        self.h.candidates[1]["evidence"]["alternative"] = ["missing"]
+        self.assertEqual(2, sum("후보 문제·그린리모델링·데이터·기존 방식 근거" in error
+                                for error in self.h.check()))
 
     def test_empty_template_is_not_evidence(self):
         self.ideation()
