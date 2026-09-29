@@ -81,7 +81,7 @@ kind는 `fact`, `estimate`, `target`, `hypothesis`. fact·estimate는 출처가 
 ]}
 ```
 
-eligibility는 팀원별 하나씩 등록한다. member_id는 `member1`~`member3`처럼 개인정보 없는 식별자. 전원 서명은 검토자가 확인한다. `guardian_required=true`이면 guardian 파일도 필요하다. 합쳐진 신청·서약 PDF를 쓰면 두 kind가 같은 경로를 참조할 수 있다. pages는 PDF/HWP를 실제 열어 확인한 값이다.
+eligibility는 팀원별 하나씩 등록한다. 현재 4인 팀의 member_id는 `member1`~`member4`처럼 개인정보 없는 식별자. 전원 서명은 검토자가 확인한다. `guardian_required=true`이면 guardian 파일도 필요하다. 합쳐진 신청·서약 PDF를 쓰면 두 kind가 같은 경로를 참조할 수 있다. pages는 PDF/HWP를 실제 열어 확인한 값이다.
 
 실제 접수 후 `harness/state.json`의 submission에 `at`(시간대 포함 ISO 시각)와 `receipt`(로컬 확인 증빙 경로)를 기록한다. 접수 전 빈 값으로 둔다. results에서 outcome은 `advanced` 또는 `not_selected`와 공식 결과 evidence 경로를 기록한다.
 

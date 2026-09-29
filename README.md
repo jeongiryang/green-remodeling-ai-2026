@@ -2,7 +2,7 @@
 
 「제6회 그린리모델링 챌린지」 대학생 해커톤 — AI 플랫폼 아이디어 부문 전용 작업 공간.
 
-[GitHub 저장소](https://github.com/jeongiryang/green-remodeling-ai-2026) — 비공개. 신진하(`ginaginaring`)·최길웅(`choigilung`)에게 Write 권한 초대 발송(2026-09-27, 수락 대기).
+[GitHub 저장소](https://github.com/jeongiryang/green-remodeling-ai-2026) — 비공개. 신진하(`ginaginaring`)·최길웅(`choigilung`)·황왕석(`hwang030915`)에게 Write 권한 초대 발송(2026-09-29 재확인, 모두 수락 대기).
 
 2026-09-27에 ‘공모전 계획’ 프로젝트의 관련 대화와 파일을 확인해 인계했다. 공식 자료 9개를 복사하고 SHA-256 일치를 확인했다.
 

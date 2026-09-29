@@ -2,7 +2,7 @@
   "contest": "제6회 그린리모델링 챌린지 대학생 해커톤",
   "division": "AI 플랫폼 아이디어",
   "deadline": "2026-09-30T23:59:00+09:00",
-  "team_size": 3,
+  "team_size": 4,
   "minimum_candidates": 3,
   "weights": {"problem": 20, "fit": 20, "originality": 25, "feasibility": 20, "development": 15},
   "artifacts": {

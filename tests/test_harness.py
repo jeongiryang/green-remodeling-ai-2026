@@ -81,7 +81,7 @@ class WorkflowTests(unittest.TestCase):
         for kind in ("proposal_pdf", "summary", "application", "pledge"):
             path = self.file(f"private/{kind}.pdf", "%PDF-1.7\nFixture only\n%%EOF")
             rows.append({"kind": kind, "path": path, "pages": slides if kind == "proposal_pdf" else 2})
-        for i in range(3):
+        for i in range(self.h.project["team_size"]):
             path = self.file(f"private/member{i}.pdf", "%PDF-1.7\nFixture only\n%%EOF")
             rows.append({"kind": "eligibility", "path": path, "member_id": f"member{i}"})
         for row in rows:
