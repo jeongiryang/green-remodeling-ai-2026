@@ -129,5 +129,50 @@
     "sha256": "3fd2790b1de8e02c83cdb1d2ede08b9f2464ab4f6a2cfd72e5ed3256bfadb5c5",
     "cache_path": "research\\ideation\\cache\\daikin-manual.pdf",
     "checked_on": "2026-09-28"
+  },
+  {
+    "name": "doe-wholehouse",
+    "url": "https://www.energy.gov/cmei/scep/wap/whole-house-weatherization",
+    "status": 200,
+    "bytes": 123427,
+    "sha256": "c735ec61197d998bd4fc073f5d9b42a4144fc4928d6d43501b6e90b8a7063de3",
+    "cache_path": "research\\ideation\\cache\\doe-wholehouse.html",
+    "checked_on": "2026-09-29"
+  },
+  {
+    "name": "pnnl-wall",
+    "url": "https://basc.pnnl.gov/home-improvement-expert/checklists/framed-wall-insulation",
+    "status": 200,
+    "bytes": 75438,
+    "sha256": "cc529bcdf3dd45d8267ecd3c5406beaa91ad8d2cbb0f33aebeebb3f1bf7148d9",
+    "cache_path": "research\\ideation\\cache\\pnnl-wall.html",
+    "checked_on": "2026-09-29"
+  },
+  {
+    "name": "pnnl-window",
+    "url": "https://basc.pnnl.gov/home-improvement-expert/checklists/window-replacement",
+    "status": 200,
+    "bytes": 77253,
+    "sha256": "e44784653ee0971399de00e5aa0e7f80e1fcda8dc37e6a86027f13342e2e2cb3",
+    "cache_path": "research\\ideation\\cache\\pnnl-window.html",
+    "checked_on": "2026-09-29"
+  },
+  {
+    "name": "companycam-checklist",
+    "url": "https://help.companycam.com/en/articles/6828391-creating-a-checklist",
+    "status": 200,
+    "bytes": 143123,
+    "sha256": "cba331b6b538079f8da35651cdc591830b3c153aadfda1bcd135b72993316405",
+    "cache_path": "research\\ideation\\cache\\companycam-checklist.html",
+    "checked_on": "2026-09-29"
+  },
+  {
+    "name": "eu-renovation-wave",
+    "url": "https://energy.ec.europa.eu/system/files/2020-10/eu_renovation_wave_strategy_0.pdf",
+    "status": 200,
+    "bytes": 996201,
+    "sha256": "4b049dcf9acc2cd861c8fdea711ffdbd8c6190dff707524fae36e8c12e578e60",
+    "cache_path": "research\\ideation\\cache\\eu-renovation-wave.pdf",
+    "checked_on": "2026-09-29"
   }
 ]
