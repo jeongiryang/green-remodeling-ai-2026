@@ -1,10 +1,10 @@
 {
-  "stage": "decision",
-  "selected_candidate": null,
+  "stage": "review",
+  "selected_candidate": "I008",
   "preparation": {
     "eligibility_manifest": "submissions/preliminary/manifest.json",
     "eligibility_checked_on": "2026-09-30",
-    "topic_selection_deferred": true
+    "topic_selection_deferred": false
   },
   "outcome": {
     "status": "pending",

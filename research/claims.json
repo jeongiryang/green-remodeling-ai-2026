@@ -1,3 +1,10 @@
 {
-  "claims": []
+  "claims": [
+    {"id":"C001","text":"국토안전관리원 2026-03-31 공공건축물 에너지 소비량 CSV는 4,347행·15열이다.","kind":"fact","source_ids":["IDEA-S25"],"method_path":"research/ideation/I008.md","used_in":"제안서 5쪽 / 요약서 제안배경"},
+    {"id":"C002","text":"2026-09-30 직접 내려받은 CSV에서 미보고 분기 0·양의 원단위·유효 면적/연도 조건을 만족한 행은 3,681개였다.","kind":"fact","source_ids":["IDEA-S25"],"method_path":"research/ideation/I008.md","used_in":"제안서 5쪽 / 요약서 제안배경"},
+    {"id":"C003","text":"공식 Greeny 소개는 공공건축물의 개선 시나리오별 에너지·CO2·공사비 예상 효과를 기존 기능으로 안내한다.","kind":"fact","source_ids":["IDEA-S26"],"method_path":"","used_in":"제안서 4쪽 / 요약서 연계방안"},
+    {"id":"C004","text":"건축HUB 월별 전기·가스 사용량 API는 지번 기준이며 서비스 키가 필요하다.","kind":"fact","source_ids":["IDEA-S27"],"method_path":"","used_in":"제안서 3쪽 / 결정 기록"},
+    {"id":"C005","text":"그린스캔은 단순 집계 중앙값보다 유사 조건의 현장 확인 신호를 더 잘 찾을 수 있다.","kind":"hypothesis","source_ids":[],"method_path":"","used_in":"제안서 7·9쪽 / 요약서 AI 적용"},
+    {"id":"C006","text":"담당자가 비교 불가능한 자료를 걸러내고 현장 질문을 빠뜨리지 않도록 돕는다.","kind":"target","source_ids":[],"method_path":"","used_in":"제안서 6·8쪽 / 요약서 기대효과"}
+  ]
 }
