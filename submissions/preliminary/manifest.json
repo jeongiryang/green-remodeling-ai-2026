@@ -2,35 +2,69 @@
   "guardian_required": false,
   "files": [
     {
+      "kind": "proposal_pptx",
+      "path": "deliverables/final/GreenLoop_아이디어제안서.pptx",
+      "sha256": "39193ef18d170af13ae7cb0c0ea6003cc932c46468f39978b8185be2c10497eb",
+      "opened": true
+    },
+    {
+      "kind": "proposal_pdf",
+      "path": "deliverables/final/GreenLoop_아이디어제안서_제출본.pdf",
+      "sha256": "be78203a845a9a964b81fb89cbef66f6046e95c05ab0c488b108bed7ab537663",
+      "opened": true,
+      "pages": 13
+    },
+    {
+      "kind": "summary",
+      "path": "deliverables/final/GreenLoop_제안요약서_제출본.pdf",
+      "sha256": "b31f3fd87150aa0970c82794ec3fba0f7ccb00196b9844a18ff103d22ae7746b",
+      "opened": true,
+      "pages": 2
+    },
+    {
+      "kind": "application",
+      "path": "private/submission/greenloop/그린루프_참가신청_개인정보동의.pdf",
+      "sha256": "051519b19573e1adbceb7327fef0d8139b66c98334fd7826e00aeb9ca79c0a70",
+      "opened": true,
+      "pages": 2
+    },
+    {
+      "kind": "pledge",
+      "path": "private/submission/greenloop/그린루프_참가서약서.pdf",
+      "sha256": "a7093dcdc03fd4989014d38e225c18aec41a91aa2c685126e804f94c91291bee",
+      "opened": true,
+      "pages": 1
+    },
+    {
       "kind": "eligibility",
       "path": "private/eligibility/member1.pdf",
       "sha256": "2efe5e2042c757ba666f5db009bff6772960ca6dc89cdc8625a464ed761a09a5",
-      "member_id": "member1",
       "pages": 1,
+      "member_id": "member1",
       "opened": true
     },
     {
       "kind": "eligibility",
       "path": "private/eligibility/member2.pdf",
       "sha256": "e4368862f3b168314eec253aef6e2668b23dd1c9dfd8a66edadaa44d3e9ae6d7",
-      "member_id": "member2",
       "pages": 1,
+      "member_id": "member2",
       "opened": true
     },
     {
       "kind": "eligibility",
       "path": "private/eligibility/member3.pdf",
       "sha256": "e250d990dfe3eb1a7422322eb3ef87015b077cd1364a0ceac03330dc1aa39bf8",
-      "member_id": "member3",
       "pages": 1,
+      "member_id": "member3",
       "opened": true
     },
     {
       "kind": "eligibility",
       "path": "private/eligibility/member4.pdf",
       "sha256": "4ddfae3c6a3bc3a352feaf20193b3de38125f0275e4133ba0e258dfe57b95ff7",
-      "member_id": "member4",
       "pages": 1,
+      "member_id": "member4",
       "opened": true
     }
   ]

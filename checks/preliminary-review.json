@@ -1,15 +1,42 @@
 {
-  "reviewer": "",
-  "reviewed_digest": "",
+  "reviewer": "Codex 2026-09-30 로컬 제출본 검토 세션",
+  "reviewed_digest": "871d5170cba138d5a5306c650cb507dc1d72318f1d2a0c4d7540f98ca2d41677",
   "checks": {
-    "latest_rules": {"passed": false, "evidence": ""},
-    "problem_and_originality": {"passed": false, "evidence": ""},
-    "data_and_ai_feasibility": {"passed": false, "evidence": ""},
-    "claims_and_sources": {"passed": false, "evidence": ""},
-    "visual_and_page_layout": {"passed": false, "evidence": ""},
-    "blind_review": {"passed": false, "evidence": ""},
-    "ai_and_external_credits": {"passed": false, "evidence": ""},
-    "team_signatures_and_eligibility": {"passed": false, "evidence": ""},
-    "files_and_delivery_access": {"passed": false, "evidence": ""}
+    "latest_rules": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "problem_and_originality": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "data_and_ai_feasibility": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "claims_and_sources": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "visual_and_page_layout": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "blind_review": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "ai_and_external_credits": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "team_signatures_and_eligibility": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    },
+    "files_and_delivery_access": {
+      "passed": true,
+      "evidence": "checks/예선제출본_검토.md"
+    }
   }
 }

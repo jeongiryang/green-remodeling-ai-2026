@@ -1,10 +1,88 @@
 {
   "claims": [
-    {"id":"C001","text":"국토안전관리원 2026-03-31 공공건축물 에너지 소비량 CSV는 4,347행·15열이다.","kind":"fact","source_ids":["IDEA-S25"],"method_path":"research/ideation/I008.md","used_in":"제안서 5쪽 / 요약서 제안배경"},
-    {"id":"C002","text":"2026-09-30 직접 내려받은 CSV에서 미보고 분기 0·양의 원단위·유효 면적/연도 조건을 만족한 행은 3,681개였다.","kind":"fact","source_ids":["IDEA-S25"],"method_path":"research/ideation/I008.md","used_in":"제안서 5쪽 / 요약서 제안배경"},
-    {"id":"C003","text":"공식 Greeny 소개는 공공건축물의 개선 시나리오별 에너지·CO2·공사비 예상 효과를 기존 기능으로 안내한다.","kind":"fact","source_ids":["IDEA-S26"],"method_path":"","used_in":"제안서 4쪽 / 요약서 연계방안"},
-    {"id":"C004","text":"건축HUB 월별 전기·가스 사용량 API는 지번 기준이며 서비스 키가 필요하다.","kind":"fact","source_ids":["IDEA-S27"],"method_path":"","used_in":"제안서 3쪽 / 결정 기록"},
-    {"id":"C005","text":"그린스캔은 단순 집계 중앙값보다 유사 조건의 현장 확인 신호를 더 잘 찾을 수 있다.","kind":"hypothesis","source_ids":[],"method_path":"","used_in":"제안서 7·9쪽 / 요약서 AI 적용"},
-    {"id":"C006","text":"담당자가 비교 불가능한 자료를 걸러내고 현장 질문을 빠뜨리지 않도록 돕는다.","kind":"target","source_ids":[],"method_path":"","used_in":"제안서 6·8쪽 / 요약서 기대효과"}
+    {
+      "id": "C001",
+      "text": "확보 공개 CSV는4,347행·15열이다.",
+      "kind": "fact",
+      "source_ids": [
+        "IDEA-S25"
+      ],
+      "method_path": "research/ideation/I008.md",
+      "used_in": "제안서4쪽/요약서1쪽"
+    },
+    {
+      "id": "C002",
+      "text": "미보고0·양의원단위·유효면적/연도 기본조건3,681행을 확인했다. 학습용 최종표본/성능 아님.",
+      "kind": "fact",
+      "source_ids": [
+        "IDEA-S25"
+      ],
+      "method_path": "research/ideation/I008.md",
+      "used_in": "제안서4쪽/요약서1쪽"
+    },
+    {
+      "id": "C003",
+      "text": "Greeny는 공사 시나리오별 에너지/CO2/공사비 예상효과를 기존 기능으로 안내한다.",
+      "kind": "fact",
+      "source_ids": [
+        "IDEA-S26"
+      ],
+      "method_path": "",
+      "used_in": "제안서12·13쪽"
+    },
+    {
+      "id": "C004",
+      "text": "CBE Occupant Survey는 분기 설문 및 건물 비교 기능을 제공한다.",
+      "kind": "fact",
+      "source_ids": [
+        "IDEA-S29"
+      ],
+      "method_path": "",
+      "used_in": "제안서2·12·13쪽/요약서2쪽"
+    },
+    {
+      "id": "C005",
+      "text": "건축HUB 월별 API는 지번 단위이고 키 필요로 초기 필수 흐름에서 제외한다.",
+      "kind": "fact",
+      "source_ids": [
+        "IDEA-S27"
+      ],
+      "method_path": "",
+      "used_in": "제안서11·13쪽/결정 기록"
+    },
+    {
+      "id": "C006",
+      "text": "에너지 비교와 이용자 불편의 확인 기록을 잇는 흐름이 조사 준비 누락·작성시간을 줄일 수 있다.",
+      "kind": "hypothesis",
+      "source_ids": [],
+      "method_path": "",
+      "used_in": "제안서2·9·10·12쪽/요약서 기대효과"
+    },
+    {
+      "id": "C007",
+      "text": "LLM은 불편 자유문 구조화·누락/모순 확인·근거 요약에 도움이 될 수 있다. 우월성 미검증.",
+      "kind": "hypothesis",
+      "source_ids": [],
+      "method_path": "",
+      "used_in": "제안서6·9·10쪽/요약서AI표"
+    },
+    {
+      "id": "C008",
+      "text": "본선 확대안 작업44~68인시는14~22+12~18+10~16+8~12의 합, 웹/Python 경험 가정 내부 추정.",
+      "kind": "estimate",
+      "source_ids": [
+        "IDEA-S25"
+      ],
+      "method_path": "research/ideation/I008.md",
+      "used_in": "제안서11쪽"
+    },
+    {
+      "id": "C009",
+      "text": "높은 사용량을 절감량/공사원인으로 단정하지 않고 자료 부족·모순에 판단을 보류한다.",
+      "kind": "target",
+      "source_ids": [],
+      "method_path": "",
+      "used_in": "제안서5·6·8·10쪽/요약서연계"
+    }
   ]
 }
