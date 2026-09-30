@@ -4,34 +4,34 @@
     {
       "kind": "proposal_pptx",
       "path": "deliverables/final/GreenLoop_아이디어제안서.pptx",
-      "sha256": "39193ef18d170af13ae7cb0c0ea6003cc932c46468f39978b8185be2c10497eb",
+      "sha256": "23be2aecf5b3ec242583d12d6331a6da86add1887647f9de6445b5ef089ac05d",
       "opened": true
     },
     {
       "kind": "proposal_pdf",
       "path": "deliverables/final/GreenLoop_아이디어제안서_제출본.pdf",
-      "sha256": "be78203a845a9a964b81fb89cbef66f6046e95c05ab0c488b108bed7ab537663",
+      "sha256": "9f61404998a289672069d01bf2b61e8084d0656523792555c0c85bd1ea9147e5",
       "opened": true,
       "pages": 13
     },
     {
       "kind": "summary",
       "path": "deliverables/final/GreenLoop_제안요약서_제출본.pdf",
-      "sha256": "b31f3fd87150aa0970c82794ec3fba0f7ccb00196b9844a18ff103d22ae7746b",
+      "sha256": "b2eefc6fd6f5900c6e58c43ccc023a1b4eaba87322a556d43a17085407725b88",
       "opened": true,
       "pages": 2
     },
     {
       "kind": "application",
       "path": "private/submission/greenloop/그린루프_참가신청_개인정보동의.pdf",
-      "sha256": "051519b19573e1adbceb7327fef0d8139b66c98334fd7826e00aeb9ca79c0a70",
+      "sha256": "77734df3fe2f858231ab398cf07622f78c52c4289dd29800958d83e8812e08dd",
       "opened": true,
       "pages": 2
     },
     {
       "kind": "pledge",
       "path": "private/submission/greenloop/그린루프_참가서약서.pdf",
-      "sha256": "a7093dcdc03fd4989014d38e225c18aec41a91aa2c685126e804f94c91291bee",
+      "sha256": "53b2721c89c0d739e336504f2970f1f264e6aeabef0c01300d52b5d15708500d",
       "opened": true,
       "pages": 1
     },

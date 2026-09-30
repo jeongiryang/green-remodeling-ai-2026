@@ -13,18 +13,28 @@
       "user_confirmed": true,
       "selection_unchanged": false,
       "proposal_revised": true,
-      "notion_sync": "verified_2026-09-30",
+      "notion_sync": "verified_revision2_2026-09-30",
       "confirmation_basis": "추천 검토 후 최종 제출자료 제작과 팀명 선정 사용자 위임"
     },
     "team_name": "그린루프",
     "work_name": "GreenLoop",
     "package_path": "private/submission/GreenLoop_그린루프_예선제출_20260930.zip",
-    "package_sha256": "281504523dc938c1712f457c6334a27506851d50cecf417b593f74b84320d1b5",
+    "package_sha256": "06ef63c696c1bd1f1576e6cf0b50e2a61ad5f09e54623a413dc8a6949d4b2050",
     "package_prepared_on": "2026-09-30",
-    "signature_method": "전원 승인 사용자 요청에 따른4개 서체 이름 기반 전자서명; 필적/본인인증형 아님",
+    "signature_method": "전원 승인 요청에 따른 새 손글씨 이름 표식 PNG 4개; 실제 필적 복제·본인인증형 아님",
     "signature_organizer_acceptance": "미확인",
-    "role_allocation": "예정; 실제 팀 담당/가용시간 미확인",
-    "notion_sync": "verified_2026-09-30"
+    "role_allocation": "2026-09-30 사용자 핵심 기술 분담 지시에 따라 배정; 실제 수행 이력이나 숙련도 주장 아님",
+    "notion_sync": "verified_revision2_2026-09-30",
+    "package_revision": "2026-09-30 revision2",
+    "package_bytes": 8983003,
+    "document_revision": {
+      "date": "2026-09-30",
+      "summary": "공식 2쪽 본문 확대·서비스 흐름/화면 이미지·출처 명확화",
+      "signatures": "흘림 손글씨 이름 표식 4개 적용",
+      "roles": "AI/LLM·웹/문진·에너지모델/ETL·백엔드/통합",
+      "proposal": "동일 방향으로13쪽 개정",
+      "review": "sealed_2026-09-30"
+    }
   },
   "outcome": {
     "status": "pending",
