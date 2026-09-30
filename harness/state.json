@@ -4,7 +4,17 @@
   "preparation": {
     "eligibility_manifest": "submissions/preliminary/manifest.json",
     "eligibility_checked_on": "2026-09-30",
-    "topic_selection_deferred": false
+    "topic_selection_deferred": false,
+    "topic_reassessment": {
+      "checked_on": "2026-09-30",
+      "recommendation": "GreenLoop — 노후 공공건축물 에너지·이용자 불편 통합 사전점검",
+      "report": "research/ideation/GreenLoop_최종추천.md",
+      "readiness": "conditional",
+      "user_confirmed": false,
+      "selection_unchanged": true,
+      "proposal_revised": false,
+      "notion_sync": "verified_2026-09-30"
+    }
   },
   "outcome": {
     "status": "pending",

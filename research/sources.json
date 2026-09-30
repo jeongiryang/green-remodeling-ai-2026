@@ -679,6 +679,14 @@
       "checked_on": "2026-09-30",
       "locator": "2026-05-31 대학생 기자단 기사: 노후 건물·우선순위",
       "finding": "공공건축물 그린리모델링 대상 선별에서 예산·인력·현장 제약과 에너지 외 요인도 고려됨을 서술. 기관 사이트에 게시된 기자단 글로 문제 맥락의 참고이며 정책 공식 배점·우리 모델 필요성 증명은 아님."
+    },
+    {
+      "id": "IDEA-S29",
+      "title": "CBE Occupant Indoor Environmental Quality Survey and Building Benchmarking",
+      "url": "https://cbe.berkeley.edu/research/occupant-survey-and-building-benchmarking/",
+      "checked_on": "2026-09-30",
+      "locator": "Project Objective / Research Approach",
+      "finding": "웹 원문에서 이용자 설문, 추가 분기 질문, 문제 영역 보고와 유사 건물 비교가 이미 제공됨을 확인. GreenLoop의 문진·비교 자체를 최초라고 주장할 수 없음. 연구 맥락과 기존 기능의 근거이며 국내 에너지 API·그린리모델링 인과진단·우리 모델 성능을 입증하지 않음. CBE 설문 응답 원자료는 확보하지 않음."
     }
   ]
 }
