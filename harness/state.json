@@ -1,5 +1,5 @@
 {
-  "stage": "submission",
+  "stage": "results",
   "selected_candidate": "I008",
   "preparation": {
     "eligibility_manifest": "submissions/preliminary/manifest.json",
@@ -19,30 +19,38 @@
     "team_name": "그린루프",
     "work_name": "GreenLoop",
     "package_path": "private/submission/GreenLoop_그린루프_예선제출_20260930.zip",
-    "package_sha256": "06ef63c696c1bd1f1576e6cf0b50e2a61ad5f09e54623a413dc8a6949d4b2050",
+    "package_sha256": "527805e312fb6b2005101e30f2cebd5166b753492eab83e311eddc6bbe50c52a",
     "package_prepared_on": "2026-09-30",
     "signature_method": "전원 승인 요청에 따른 새 손글씨 이름 표식 PNG 4개; 실제 필적 복제·본인인증형 아님",
     "signature_organizer_acceptance": "미확인",
     "role_allocation": "2026-09-30 사용자 핵심 기술 분담 지시에 따라 배정; 실제 수행 이력이나 숙련도 주장 아님",
-    "notion_sync": "verified_revision2_2026-09-30",
-    "package_revision": "2026-09-30 revision2",
-    "package_bytes": 8983003,
+    "notion_sync": "verified_submission_2026-09-30",
+    "package_revision": "2026-09-30 revision4 PDF reference",
+    "package_bytes": 10203249,
     "document_revision": {
       "date": "2026-09-30",
       "summary": "공식 2쪽 본문 확대·서비스 흐름/화면 이미지·출처 명확화",
       "signatures": "흘림 손글씨 이름 표식 4개 적용",
       "roles": "AI/LLM·웹/문진·에너지모델/ETL·백엔드/통합",
-      "proposal": "동일 방향으로13쪽 개정",
-      "review": "sealed_2026-09-30"
-    }
+      "proposal": "교정된 PDF 레퍼런스 기반 밝은 배경·남색/청록·13쪽·편집 가능한 표3개",
+      "review": "sealed_revision4_2026-09-30"
+    },
+    "delivery_folder": "private/submission/제출파일만_20260930",
+    "delivery_file_count": 9,
+    "reference_source": "2026산학과제OT설명자료.pdf (디자인·설명 구성 참고)",
+    "reference_sha256": "928d80f437a7fc9a070c05b1711107a58d8ea3bedb77a5c4bcd4e86b45338888"
   },
   "outcome": {
     "status": "pending",
     "evidence": ""
   },
   "submission": {
-    "at": "",
-    "receipt": ""
+    "at": "2026-09-30T16:33:00+09:00",
+    "receipt": "private/submission/receipts/20260930/receipt.json",
+    "website_status": "confirmed",
+    "email_status": "sent",
+    "recipient_acknowledgment": "pending",
+    "attachment_count": 9
   },
   "final_submission": {
     "at": "",

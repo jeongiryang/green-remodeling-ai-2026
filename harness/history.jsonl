@@ -2,3 +2,4 @@
 {"at": "2026-09-30T09:37:00.462947+09:00", "from": "decision", "to": "proposal"}
 {"at": "2026-09-30T09:48:52.104236+09:00", "from": "proposal", "to": "review"}
 {"at": "2026-09-30T10:58:59.358207+09:00", "from": "review", "to": "submission"}
+{"at": "2026-09-30T16:36:31.768603+09:00", "from": "submission", "to": "results"}
