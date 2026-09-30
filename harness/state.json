@@ -1,6 +1,11 @@
 {
   "stage": "decision",
   "selected_candidate": null,
+  "preparation": {
+    "eligibility_manifest": "submissions/preliminary/manifest.json",
+    "eligibility_checked_on": "2026-09-30",
+    "topic_selection_deferred": true
+  },
   "outcome": {
     "status": "pending",
     "evidence": ""

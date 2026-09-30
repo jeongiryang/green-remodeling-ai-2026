@@ -1,4 +1,37 @@
 {
-  "guardian_required": null,
-  "files": []
+  "guardian_required": false,
+  "files": [
+    {
+      "kind": "eligibility",
+      "path": "private/eligibility/member1.pdf",
+      "sha256": "2efe5e2042c757ba666f5db009bff6772960ca6dc89cdc8625a464ed761a09a5",
+      "member_id": "member1",
+      "pages": 1,
+      "opened": true
+    },
+    {
+      "kind": "eligibility",
+      "path": "private/eligibility/member2.pdf",
+      "sha256": "e4368862f3b168314eec253aef6e2668b23dd1c9dfd8a66edadaa44d3e9ae6d7",
+      "member_id": "member2",
+      "pages": 1,
+      "opened": true
+    },
+    {
+      "kind": "eligibility",
+      "path": "private/eligibility/member3.pdf",
+      "sha256": "e250d990dfe3eb1a7422322eb3ef87015b077cd1364a0ceac03330dc1aa39bf8",
+      "member_id": "member3",
+      "pages": 1,
+      "opened": true
+    },
+    {
+      "kind": "eligibility",
+      "path": "private/eligibility/member4.pdf",
+      "sha256": "4ddfae3c6a3bc3a352feaf20193b3de38125f0275e4133ba0e258dfe57b95ff7",
+      "member_id": "member4",
+      "pages": 1,
+      "opened": true
+    }
+  ]
 }

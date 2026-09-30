@@ -85,6 +85,8 @@ eligibility는 팀원별 하나씩 등록한다. 현재 4인 팀의 member_id는
 
 실제 접수 후 `harness/state.json`의 submission에 `at`(시간대 포함 ISO 시각)와 `receipt`(로컬 확인 증빙 경로)를 기록한다. 접수 전 빈 값으로 둔다. results에서 outcome은 `advanced` 또는 `not_selected`와 공식 결과 evidence 경로를 기록한다.
 
+`state.preparation`은 단계 전환과 별개인 접수 준비 메모다. `eligibility_manifest`는 팀원별 증빙 경로·해시를 기록한 로컬 manifest를 가리키고, `eligibility_checked_on`은 PDF를 실제 연 날짜다. `topic_selection_deferred=true`는 사용자가 주제 결정을 잠시 보류했다는 뜻이며 최종 선정·제안서·접수 완료를 의미하지 않는다. 원본 PDF와 생년월일은 Git 추적 제외 `private/`에만 둔다.
+
 ## 본선 제출 묶음 — submissions/final/manifest.json
 
 운영기관의 실제 본선 안내를 보관한 rules_evidence 경로와 files 목록을 채운다. files 각 항목은 kind·path·sha256·opened를 가진다. 예선의 15쪽/2쪽 제한을 본선에 자동 적용하지 않는다. 새 규격은 최종 검토 기록에서 항목별 확인한다. 실제 제출 후 state의 final_submission에 시각·증빙을 기록한다.
