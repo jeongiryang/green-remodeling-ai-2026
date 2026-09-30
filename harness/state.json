@@ -55,5 +55,18 @@
   "final_submission": {
     "at": "",
     "receipt": ""
+  },
+  "monitoring": {
+    "receipt_confirmation": {
+      "automation_id": "automation",
+      "name": "그린루프 주최 측 수신 확인",
+      "status": "ACTIVE",
+      "checks_start_on": "2026-10-14",
+      "timezone": "Asia/Seoul",
+      "frequency": "daily",
+      "start_enforcement": "예약 프롬프트가 10/14 이전 메일 조회를 금지함; 예약 자체는 활성 상태",
+      "on_confirmation": "보고·기록 후 일시정지",
+      "notion_sync": "verified_2026-09-30"
+    }
   }
 }
